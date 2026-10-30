@@ -5,7 +5,14 @@ Defenda a barreira, monte sua composição de heróis e sobreviva às ondas e ao
 
 **[Página na Steam](https://store.steampowered.com/app/5187440)**
 
-> **Vitrine de código.** Este repositório mostra o código do jogo. Sprites, interface, fontes e áudio vêm de pacotes licenciados que não permitem redistribuição e **não estão incluídos**, então o jogo não roda a partir daqui. O desenvolvimento acontece num repositório privado (~370 commits desde setembro de 2026).
+<p align="center">
+  <img src="media/chefe-quimera.gif" width="49%" alt="Luta contra a Quimera">
+  <img src="media/ato-fome.gif" width="49%" alt="Ato da Fome">
+  <img src="media/ato-2.gif" width="49%" alt="Ato II">
+  <img src="media/herois.gif" width="49%" alt="Escolha de heróis">
+</p>
+
+> **Vitrine de código.** Este repositório mostra o código do jogo. Os GIFs acima são gravações do jogo. Sprites, interface, fontes e áudio vêm de pacotes licenciados que não permitem redistribuição e **não estão incluídos**, então o jogo não roda a partir daqui. O desenvolvimento acontece num repositório privado (~370 commits desde setembro de 2026).
 
 ## Stack
 
