@@ -1,0 +1,181 @@
+{
+  "compendium.new-mage.title": "Invocar: Mago",
+  "compendium.new-mage.description": "Dano equilibrado. Ataques confiáveis.",
+  "compendium.new-mage.flavorText": "Mestres das artes arcanas básicas, essenciais em qualquer defesa.",
+
+  "compendium.new-archer.title": "Invocar: Arqueira",
+  "compendium.new-archer.description": "Velocidade alta, longo alcance. Aplica sangramento.",
+  "compendium.new-archer.flavorText": "Olhos de águia vigiando as fronteiras do reino.",
+
+  "compendium.new-warlock.title": "Invocar: Bruxo",
+  "compendium.new-warlock.description": "Dano enorme, ataque lento.",
+  "compendium.new-warlock.flavorText": "Pactos sombrios trazem poder imenso, mas cobram em velocidade.",
+
+  "compendium.new-druid.title": "Invocar: Druida",
+  "compendium.new-druid.description": "Ciclo das Estações: Primavera cura, Verão +dano, Outono explode, Inverno congela. A cada 10 tiros.",
+  "compendium.new-druid.flavorText": "A floresta se ergue para proteger seus segredos.",
+
+  "compendium.new-necro.title": "Invocar: Necromante",
+  "compendium.new-necro.description": "Invoca um Morto-Vivo Comum no começo da onda. Comanda os mortos.",
+  "compendium.new-necro.flavorText": "A morte não é o fim. É apenas o começo do serviço.",
+
+  "compendium.new-bard.title": "Invocar: O Bardo",
+  "compendium.new-bard.description": "Suporte: aumenta a velocidade de ataque dos aliados.",
+  "compendium.new-bard.flavorText": "Canções que inspiram coragem até nos corações mais medrosos.",
+
+  "compendium.new-cleric.title": "Invocar: Clériga",
+  "compendium.new-cleric.description": "Dano sagrado. Regenera a Barreira (Sinergia).",
+  "compendium.new-cleric.flavorText": "A fé move montanhas e derruba exércitos.",
+
+  "compendium.new-priest.title": "Invocar: Hyo",
+  "compendium.new-priest.description": "Cura os aliados feridos em campo.",
+  "compendium.new-priest.flavorText": "A luz sagrada restaura corpo e espírito.",
+
+  "compendium.expand-slots.title": "Expansão de Comando",
+  "compendium.expand-slots.description": "Aumenta o limite máximo de aliados em +1.",
+  "compendium.expand-slots.flavorText": "Um general melhor comanda um exército maior.",
+
+  "compendium.archer-thousandcuts.title": "Mil Cortes",
+  "compendium.archer-thousandcuts.description": "Acumulável (até 5×): cada cópia dá +8% de dano permanente às Arqueiras.",
+  "compendium.archer-thousandcuts.flavorText": "Mil ferimentos pequenos sangram mais que um grande.",
+
+  "compendium.archer-explosive.title": "Flecha Explosiva",
+  "compendium.archer-explosive.description": "As Arqueiras têm 10% de chance de disparar flechas explosivas (em área).",
+  "compendium.archer-explosive.flavorText": "Uma surpresa instável na ponta da flecha.",
+
+  "compendium.archer-rain.title": "Chuva de Flechas",
+  "compendium.archer-rain.description": "As Arqueiras atacam todos os inimigos a cada 12 acertos.",
+  "compendium.archer-rain.flavorText": "O céu escurece com a fúria élfica.",
+
+  "compendium.warlock-lightning.title": "Tempestade Negra",
+  "compendium.warlock-lightning.description": "Os Bruxos têm 15% de chance de lançar Relâmpago (em área).",
+  "compendium.warlock-lightning.flavorText": "O céu escurece quando eles sussurram.",
+
+  "compendium.necro-explosion.title": "Peste Explosiva",
+  "compendium.necro-explosion.description": "Os Necromantes têm 15% de chance de lançar fogo vil. Ao matar, explode em área.",
+  "compendium.necro-explosion.flavorText": "O corpo do inimigo vira a arma perfeita.",
+
+  "compendium.druid-roots.title": "Raízes Ancestrais",
+  "compendium.druid-roots.description": "Ao entrar na Primavera, a terra irrompe em raízes — todos os inimigos ficam presos por 1,5s.",
+  "compendium.druid-roots.flavorText": "A terra reclama quem ousa pisar nela.",
+
+  "compendium.cleric-blessing.title": "Fervor Sagrado",
+  "compendium.cleric-blessing.description": "As Clérigas têm 15% de chance de aumentar TODO o dano em 200% por 3s.",
+  "compendium.cleric-blessing.flavorText": "Uma luz divina banha o campo de batalha, guiando cada golpe.",
+
+  "compendium.dmg-boost.title": "Poder Arcano Global",
+  "compendium.dmg-boost.description": "Aumenta TODO o dano em 10%.",
+  "compendium.dmg-boost.flavorText": "A magia do ambiente se intensifica.",
+
+  "compendium.gold-cache.title": "Tesouro Escondido",
+  "compendium.gold-cache.description": "Receba 300 de Ouro na hora.",
+  "compendium.gold-cache.flavorText": "O que estava perdido, agora foi achado.",
+
+  "compendium.mage-surge.title": "Surto Arcano",
+  "compendium.mage-surge.description": "🔮 O Mago ganha +20% de dano. Acumulável.",
+  "compendium.mage-surge.flavorText": "Poder arcano bruto concentrado em cada tiro.",
+
+  "compendium.mage-fireball-base.title": "Igniblast",
+  "compendium.mage-fireball-base.description": "🔮 Acumulável (5×): +8% de chance por acúmulo de disparar uma Bola de Fogo (em área) ao acertar.",
+  "compendium.mage-fireball-base.flavorText": "Alguns magos perguntam por quê. Este pergunta quanto.",
+
+  "compendium.mage-blink.title": "Piscar Arcano",
+  "compendium.mage-blink.description": "🔮 O Mago ganha +15% de alcance de ataque. Acumulável.",
+  "compendium.mage-blink.flavorText": "Distância é só uma sugestão.",
+
+  "compendium.warlock-drain.title": "Dreno de Alma",
+  "compendium.warlock-drain.description": "🌑 Acumulável (5×): +2% de HP roubado por abate por acúmulo. Máximo 10% de roubo de vida.",
+  "compendium.warlock-drain.flavorText": "Cada alma consumida alimenta a fome.",
+
+  "compendium.warlock-void.title": "Pacto do Vazio",
+  "compendium.warlock-void.description": "🌑 Acumulável (3×): cada cópia troca -20% de velocidade de ataque por +50% de dano.",
+  "compendium.warlock-void.flavorText": "O vazio não negocia. Ele só toma.",
+
+  "compendium.druid-cycle.title": "Ciclo Acelerado",
+  "compendium.druid-cycle.description": "🌿 As estações avançam a cada 7/6/5 tiros (em vez de 10). Máximo 3 acúmulos.",
+  "compendium.druid-cycle.flavorText": "A natureza nunca espera.",
+
+  "compendium.druid-eclipse.title": "Eclipse Druídico",
+  "compendium.druid-eclipse.description": "🌑 Ao completar um ciclo inteiro, o próximo projétil aplica as 4 estações de uma vez.",
+  "compendium.druid-eclipse.flavorText": "Quando as estações se alinham, a natureza para.",
+
+  "compendium.necro-power.title": "Pacto Sombrio",
+  "compendium.necro-power.description": "💀 Comum — Todos os Mortos-Vivos causam +10% de dano por acúmulo. Máximo 8 acúmulos (+80% no total).",
+  "compendium.necro-power.flavorText": "Um pacto selado em osso e sombra.",
+
+  "compendium.necro-raise.title": "Erguer Morto-Vivo",
+  "compendium.necro-raise.description": "💀 Incomum — Mortes de inimigos têm 3% de chance de erguê-los como Mortos-Vivos. Cada acúmulo soma +2%. Máximo 5 acúmulos (13% no total).",
+  "compendium.necro-raise.flavorText": "Nenhum cadáver se perde no campo de batalha dele.",
+
+  "compendium.necro-plague-mastery.title": "Maestria da Peste",
+  "compendium.necro-plague-mastery.description": "💀 Acumulável (3×): os tiros do Necromante têm +15% de chance de aplicar uma maldição debilitante — inimigos amaldiçoados recebem +20% de dano de todas as fontes e andam 10% mais devagar.",
+  "compendium.necro-plague-mastery.flavorText": "Doença é só outra forma de controle.",
+
+  "compendium.necro-death-lord.title": "Senhor da Morte",
+  "compendium.necro-death-lord.description": "💀 MÍTICA — O Necromante ascende. Invoca 3 Mortos-Vivos no começo da onda, todos com +100% de dano, e amaldiçoa todos os inimigos no começo da onda (−30% de velocidade e dano por 10s).",
+  "compendium.necro-death-lord.flavorText": "Os mortos não o seguem. Eles o adoram.",
+
+  "compendium.bard-radius.title": "Crescendo",
+  "compendium.bard-radius.description": "🎵 O raio da aura do Bardo aumenta +25%. Acumulável.",
+  "compendium.bard-radius.flavorText": "A melodia alcança mais longe que qualquer lâmina.",
+
+  "compendium.bard-hymn.title": "Hino de Batalha",
+  "compendium.bard-hymn.description": "🎵 Acumulável (5×): cada cópia aumenta em +10% o bônus de velocidade de ataque da aura do Bardo (começa em +35%).",
+  "compendium.bard-hymn.flavorText": "O ritmo da guerra tem o compasso dele.",
+
+  "compendium.bard-anthem.title": "Hino da Ruína",
+  "compendium.bard-anthem.description": "🎵 O Bardo entra no combate: +100% de dano e 15% de crítico. Acumulável.",
+  "compendium.bard-anthem.flavorText": "A última canção que eles vão ouvir.",
+
+  "compendium.cleric-sacred.title": "Solo Sagrado",
+  "compendium.cleric-sacred.description": "✨ Acumulável (5×): cada cópia adiciona +1% de autocura do HP máximo por tiro disparado pela Clériga.",
+  "compendium.cleric-sacred.flavorText": "Toda oração é atendida, mais cedo ou mais tarde.",
+
+  "compendium.paladin-will.title": "Vontade de Ferro",
+  "compendium.paladin-will.description": "🛡 O Paladino ganha +25% de HP máximo. Acumulável.",
+  "compendium.paladin-will.flavorText": "A fé é a armadura mais forte.",
+
+  "compendium.paladin-caldera.title": "Caldeira Divina",
+  "compendium.paladin-caldera.description": "🛡 Acumulável (5×): o Paladino irradia fogo sagrado em área, e cada cópia soma +20% de dano da caldeira.",
+  "compendium.paladin-caldera.flavorText": "Fogo sagrado não faz distinção.",
+
+  "compendium.paladin-martyr.title": "Juramento do Mártir",
+  "compendium.paladin-martyr.description": "🛡 Acumulável (3×): abaixo do limiar de HP, a velocidade de ataque dobra até ser curado.",
+  "compendium.paladin-martyr.flavorText": "Quanto mais perto da morte, mais forte a determinação.",
+
+  "compendium.priest-mending.title": "Toque Restaurador",
+  "compendium.priest-mending.description": "⚕ O poder de cura do Sacerdote aumenta +30% por cópia. Acumulável.",
+  "compendium.priest-mending.flavorText": "O toque gentil que vira o jogo.",
+
+  "compendium.priest-guard.title": "Aura Guardiã",
+  "compendium.priest-guard.description": "⚕ Acumulável (5×): cada cópia reduz em -5% o dano recebido por todos os aliados. Máximo -25%.",
+  "compendium.priest-guard.flavorText": "Sob a guarda do Sacerdote, ninguém cai sozinho.",
+
+  "compendium.priest-res.title": "Ressurreição",
+  "compendium.priest-res.description": "⚕ Restaura na hora 40%+ do HP de TODOS os aliados. Pode ser pega várias vezes para curas maiores.",
+  "compendium.priest-res.flavorText": "A morte não é o fim. Não hoje.",
+
+  "compendium.cleric-battle-prayer.title": "Prece de Batalha",
+  "compendium.cleric-battle-prayer.description": "✨ Acumulável (5×): a Clériga tem chance crescente de triplicar TODO o dano dos aliados por 3s a cada tiro.",
+  "compendium.cleric-battle-prayer.flavorText": "Fé feita matéria.",
+
+  "compendium.new-runesmith.title": "Invocar: Veltharion",
+  "compendium.new-runesmith.description": "O Ferreiro Rúnico. Inscreve runas arcanas que soltam raio em cadeia a cada 5º tiro.",
+  "compendium.new-runesmith.flavorText": "Ele não mira. Ele calcula.",
+
+  "compendium.new-sylvanite.title": "Invocar: Aelindra",
+  "compendium.new-sylvanite.description": "A Sylvanite. Espírito antigo da floresta que envenena inimigos e cura aliados passivamente.",
+  "compendium.new-sylvanite.flavorText": "As raízes lembram de cada guerra travada acima delas.",
+
+  "compendium.new-dreadlord.title": "Invocar: Kael'Vor",
+  "compendium.new-dreadlord.description": "O Senhor do Pavor. Queima a própria força vital por dano catastrófico. Mais letal perto da morte.",
+  "compendium.new-dreadlord.flavorText": "Dor não é fraqueza. É o combustível.",
+
+  "compendium.new-vex.title": "Invocar: Vex",
+  "compendium.new-vex.description": "A Assassina. A cada 5º ataque ela some e reaparece sobre o alvo, causando dano em área. Abates restauram o HP dela.",
+  "compendium.new-vex.flavorText": "Ela não persegue. Ela chega.",
+
+  "compendium.vex-hunger.title": "Fome",
+  "compendium.vex-hunger.description": "🩸 Vex: a Investida de Sai agora rouba 12% do dano causado como HP (era 5%). Quanto mais ela mata, mais difícil fica matá-la.",
+  "compendium.vex-hunger.flavorText": "A fome nunca vai embora. Só fica mais educada."
+}

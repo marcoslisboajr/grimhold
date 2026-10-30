@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+/* As fontes do jogo (Cardo, MedievalSharp) não têm glifo chinês. Sem uma
+   fonte CJK na pilha, todo caractere chinês vira quadradinho.
+   A Noto Sans SC entra como ÚLTIMO recurso em todas as famílias: pra
+   inglês e português nada muda (as fontes anteriores cobrem tudo), e pro
+   chinês ela assume só onde as outras não têm o glifo. */
+@theme {
+  /* Pixel (B1b, 18/9): as tres familias de titulo/rotulo viram Jersey.
+     Cardo/MedievalSharp ficam so como fallback; a Noto segue pro chines. */
+  --font-cinzel: 'Jersey 15', 'Cardo', 'Noto Sans SC', serif;
+  --font-medieval: 'Jersey 10', 'MedievalSharp', 'Noto Sans SC', serif;
+  --font-fantasy: 'Jersey 10', 'Cardo', 'MedievalSharp', 'Noto Sans SC', serif;
+  --font-pixel: 'Jersey 15', 'Noto Sans SC', sans-serif;
+  --font-pixel-display: 'Jersey 10', 'Noto Sans SC', sans-serif;
+}
+
+/* ── HUD pixel (B1b): primitivos de components/ui/Pixel.tsx ─────────────
+   As molduras vem de border-image 9-slice (public/ui/pixel/*.png, 2x).
+   Regras da "estela" continuam: chapado, sem glow, sem blur, sem radius. */
+.pixel-panel, .pixel-btn, .pixel-bar { image-rendering: pixelated; border-radius: 0; }
+.pixel-panel { font-family: var(--font-pixel); }
+.pixel-btn {
+  font-family: var(--font-pixel);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  padding: 4px 14px 6px;
+  cursor: pointer;
+  user-select: none;
+  text-shadow: 0 2px 0 #0b0906;          /* letra "baixada" (letterpress), 1 px 2x */
+  transition: filter 80ms linear;
+}
+.pixel-btn:hover:not(:disabled) { filter: brightness(1.18); }
+.pixel-btn:active:not(:disabled) { transform: translateY(2px); filter: brightness(0.92); }
+.pixel-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.pixel-btn.is-active { text-shadow: 0 2px 0 rgba(255,255,255,0.18); }
+.pixel-bar { overflow: hidden; }
+.pixel-bar-fill { height: 100%; transition: width 0.15s linear; }
+.pixel-text { font-family: var(--font-pixel); text-shadow: 0 2px 0 #0b0906; }
+.pixel-display { font-family: var(--font-pixel-display); text-shadow: 0 2px 0 #0b0906; }
+
+/* Braseiro animado do menu (public/ui/pixel/brazier.png, 4 quadros de 96x120) */
+.brazier { width: 96px; height: 120px; background: url(/ui/pixel/brazier.png) 0 0 / 400% 100% no-repeat; image-rendering: pixelated; animation: brazierFlame 0.6s steps(3) infinite; flex-shrink: 0; }
+@keyframes brazierFlame { from { background-position-x: 0%; } to { background-position-x: 100%; } }
+@media (max-width: 700px) { .brazier { display: none; } }
+
+/* Tamanho do texto (Configuracoes): zoom so nos overlays de tela cheia — menus,
+   paineis e telas de fim de run. O campo de batalha (canvas escalado) nao entra. */
+html[data-ui-zoom="1.15"] .fixed.inset-0, html[data-ui-zoom="1.15"] .ui-zoom { zoom: 1.15; }
+html[data-ui-zoom="1.3"]  .fixed.inset-0, html[data-ui-zoom="1.3"]  .ui-zoom { zoom: 1.3; }
+/* vh dentro de um elemento com zoom e multiplicado pelo zoom — compensa pros paineis com altura maxima em vh */
+html[data-ui-zoom="1.15"] .fixed.inset-0 .max-h-\[60vh\] { max-height: calc(60vh / 1.15); }
+html[data-ui-zoom="1.15"] .fixed.inset-0 .max-h-\[85vh\] { max-height: calc(85vh / 1.15); }
+html[data-ui-zoom="1.15"] .fixed.inset-0 .max-h-\[90vh\] { max-height: calc(90vh / 1.15); }
+html[data-ui-zoom="1.15"] .fixed.inset-0 .max-h-\[92vh\] { max-height: calc(92vh / 1.15); }
+html[data-ui-zoom="1.3"] .fixed.inset-0 .max-h-\[60vh\] { max-height: calc(60vh / 1.3); }
+html[data-ui-zoom="1.3"] .fixed.inset-0 .max-h-\[85vh\] { max-height: calc(85vh / 1.3); }
+html[data-ui-zoom="1.3"] .fixed.inset-0 .max-h-\[90vh\] { max-height: calc(90vh / 1.3); }
+html[data-ui-zoom="1.3"] .fixed.inset-0 .max-h-\[92vh\] { max-height: calc(92vh / 1.3); }
+
+/* Toasts e paineis fixos fora do canvas do jogo: seguem a escala do campo (--hud-escala = scale do canvas, GameCanvas) */
+.hud-fixo { zoom: var(--hud-escala, 1); }

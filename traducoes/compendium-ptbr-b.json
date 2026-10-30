@@ -1,0 +1,261 @@
+{
+  "compendium.vex-blink.title": "Golpe Instantâneo",
+  "compendium.vex-blink.description": "🩸 Vex: o raio de área da Investida de Sai sobe de 120 para 160px. Mais inimigos pegos em cada teleporte.",
+  "compendium.vex-blink.flavorText": "O truque não é ser rápida. É chegar antes de ser vista.",
+
+  "compendium.vex-veil.title": "Véu de Sombra",
+  "compendium.vex-veil.description": "🩸 Vex: 20% de chance de desviar dos projéteis inimigos enquanto estiver viva.",
+  "compendium.vex-veil.flavorText": "O véu não esconde o rosto. Esconde a intenção.",
+
+  "compendium.new-zylvara.title": "Invocar: Zylvara",
+  "compendium.new-zylvara.description": "A Arqueira das Sombras. Envenena a cada acerto. A cada 6º ataque some nas sombras e reaparece com um tiro fatal de dano triplo.",
+  "compendium.new-zylvara.flavorText": "Ela nunca esteve ali. A flecha esteve.",
+
+  "compendium.zylvara-poison.title": "Veneno das Profundezas",
+  "compendium.zylvara-poison.description": "🌑 Zylvara: os tiques de veneno duram 1s a mais. 15% de chance por tique de aplicar um segundo acúmulo.",
+  "compendium.zylvara-poison.flavorText": "As cavernas ensinaram paciência. A toxina ensina permanência.",
+
+  "compendium.zylvara-cloak.title": "Manto Sombrio",
+  "compendium.zylvara-cloak.description": "🌑 Zylvara: a recarga do Passo Sombrio cai de 6 para 4 ataques. 25% de chance de esquiva durante o manto.",
+  "compendium.zylvara-cloak.flavorText": "Entre a luz e o escuro mora o segundo mais letal.",
+
+  "compendium.zylvara-extinct.title": "Protocolo de Extinção",
+  "compendium.zylvara-extinct.description": "🌑 Lendária: o Passo Sombrio mata na hora qualquer inimigo abaixo de 25% de HP. Cada execução gera +1 de ouro.",
+  "compendium.zylvara-extinct.flavorText": "Ela não termina lutas. Ela as encerra.",
+
+  "compendium.new-morrigan.title": "Invocar: Morrigan",
+  "compendium.new-morrigan.description": "A Devoradora de Almas. Cada abate próximo dá uma alma: +2% de dano e +4px de alcance permanentes. O Golpe Consumidor premia acertos seguidos. Modo Devorar a cada 10 almas: tiros explosivos em área por 5s.",
+  "compendium.new-morrigan.flavorText": "Ela chegou antes da batalha. Sempre chega. Está contando desde 1247.",
+
+  "compendium.morrigan-ravenous.title": "Voraz",
+  "compendium.morrigan-ravenous.description": "💜 Rara: raio de coleta de almas +80px. A Morrigan também coleta almas de abates feitos por qualquer aliado no alcance.",
+  "compendium.morrigan-ravenous.flavorText": "Ela não faz distinção. Alma é alma.",
+
+  "compendium.morrigan-bitterharvest.title": "Colheita Amarga",
+  "compendium.morrigan-bitterharvest.description": "💜 Rara: cada alma dá +3% de dano em vez de +2%. O bônus de almas dobra durante o Modo Devorar.",
+  "compendium.morrigan-bitterharvest.flavorText": "Quanto mais ela espera, pior fica. Para todo mundo.",
+
+  "compendium.morrigan-devourstorm.title": "Tempestade Devoradora",
+  "compendium.morrigan-devourstorm.description": "💜 Lendária: com 50+ almas, entra em meio-Devorar permanente. Todos os projéteis causam dano em área. Sem teto de almas, sem retorno decrescente.",
+  "compendium.morrigan-devourstorm.flavorText": "Quatrocentos anos de paciência. É assim que a paciência se parece.",
+
+  "compendium.morrigan-plague.title": "Peste de Almas",
+  "compendium.morrigan-plague.description": "💜 Mítica: os ataques da Morrigan infectam os inimigos com uma peste viva por 5s. A peste salta para o inimigo mais próximo quando o hospedeiro morre e se renova.",
+  "compendium.morrigan-plague.flavorText": "Não acaba com a morte. A morte é como ela viaja.",
+
+  "compendium.new-ixara.title": "Invocar: Ixara",
+  "compendium.new-ixara.description": "A Demônia do Caos. Ganha Fúria ao ser atingida. A Nova do Caos escala com a raiva. Na fúria máxima: limpa o campo ao custo da própria mobilidade.",
+  "compendium.new-ixara.flavorText": "Dor não é um problema. É o ponto.",
+
+  "compendium.ixara-rage.title": "Conduíte da Fúria",
+  "compendium.ixara-rage.description": "💥 Ixara: cada acúmulo de Fúria também dá +3% de velocidade de ataque (máx +30%). Os acúmulos decaem 50% mais devagar entre ondas.",
+  "compendium.ixara-rage.flavorText": "Cada ferida afia a lâmina.",
+
+  "compendium.ixara-ricochet.title": "Chifres do Caos",
+  "compendium.ixara-ricochet.description": "💥 Ixara: a Nova do Caos atinge 2 inimigos próximos a mais. Atordoamento sobe para 1,2s.",
+  "compendium.ixara-ricochet.flavorText": "O caos não escolhe uma direção. Escolhe todo mundo.",
+
+  "compendium.ixara-collapse.title": "Colapso Total",
+  "compendium.ixara-collapse.description": "💥 Lendária: a Nova do Caos na Fúria máxima (10 acúmulos) deixa todos os inimigos que não são chefes com 1 HP e cura todos os aliados em 30 HP, mas a Ixara fica atordoada por 2s.",
+  "compendium.ixara-collapse.flavorText": "Ela chama de explosão controlada. Não há nada de controlado nisso.",
+
+  "compendium.new-jester.title": "Invocar: Ming",
+  "compendium.new-jester.description": "O Bobo. Alterna bolas Vermelha (lentidão) / Dourada (cura) / Roxa (confusão). Caos puro.",
+  "compendium.new-jester.flavorText": "A piada é sempre com o inimigo.",
+
+  "compendium.jester-dead-mans-hand.title": "Mão do Morto",
+  "compendium.jester-dead-mans-hand.description": "☠ SUPREMA: 5% de chance por abate (no máximo 1 a cada 8s) de soltar uma carta roubada da alma do morto — uma melhoria aleatória aparece no meio da batalha para você pegar.",
+  "compendium.jester-dead-mans-hand.flavorText": "Ele dá as cartas. Você joga. Ninguém perguntou aos mortos.",
+
+  "compendium.jester-chaos.title": "Aura do Caos",
+  "compendium.jester-chaos.description": "🃏 No começo da onda, dá um bônus aleatório a TODOS os aliados: +30% de velocidade de ataque, +25% de dano ou +20% de alcance por 15s.",
+  "compendium.jester-chaos.flavorText": "Ordem é só o caos que ainda não se apresentou.",
+
+  "compendium.jester-pratfall.title": "Tombo",
+  "compendium.jester-pratfall.description": "🃏 Os acertos do Bobo têm 20% de chance de atordoar o inimigo por 0,6s.",
+  "compendium.jester-pratfall.flavorText": "Dignidade é superestimada em zona de guerra.",
+
+  "compendium.jester-roulette.title": "Roleta",
+  "compendium.jester-roulette.description": "🃏 Cada abate tem 8% de chance de disparar um efeito aleatório enorme: explosão em área, cura total, teleporte de inimigos, frenesi de velocidade ou confusão em massa.",
+  "compendium.jester-roulette.flavorText": "Gire a roleta. Reze para ninguém em particular.",
+
+  "compendium.jester-tricks.title": "Cartola de Truques",
+  "compendium.jester-tricks.description": "🃏 Acumulável (3×): +20% de dano do Bobo e efeitos de bola mais fortes por acúmulo.",
+  "compendium.jester-tricks.flavorText": "A cartola não tem fundo. Os truques têm.",
+
+  "compendium.runesmith-resonance.title": "Ressonância Rúnica",
+  "compendium.runesmith-resonance.description": "⚡ Acumulável (4×): cada tiro do Ferreiro Rúnico tem +8% de chance de saltar para um segundo inimigo próximo por 60% do dano.",
+  "compendium.runesmith-resonance.flavorText": "A runa lembra. Ela ecoa.",
+
+  "compendium.runesmith-volley.title": "Saraivada Rúnica",
+  "compendium.runesmith-volley.description": "⚡ Acumulável (5×): o Ferreiro Rúnico dispara +1 projétil por tiro por acúmulo. Máximo 5 acúmulos.",
+  "compendium.runesmith-volley.flavorText": "Mais runas, mais ruína.",
+
+  "compendium.runesmith-overload.title": "Sobrecarga Rúnica",
+  "compendium.runesmith-overload.description": "⚡ Acumulável (3×): o raio em cadeia causa +40% por acúmulo e atinge 1 inimigo a mais. Máximo 3 acúmulos.",
+  "compendium.runesmith-overload.flavorText": "A runa grita. O inimigo queima.",
+
+  "compendium.runesmith-reach.title": "Inscrição Estendida",
+  "compendium.runesmith-reach.description": "⚡ O alcance do Ferreiro Rúnico aumenta +20%. Acumulável.",
+  "compendium.runesmith-reach.flavorText": "Uma runa lançada mais longe sela o destino mais cedo.",
+
+  "compendium.sylvanite-spore-burst.title": "Explosão de Esporos",
+  "compendium.sylvanite-spore-burst.description": "🌿 Acumulável (3×): todo 5º tiro da Sylvanite solta uma nuvem de veneno que fica por 3s, envenenando todos os inimigos que passarem.",
+  "compendium.sylvanite-spore-burst.flavorText": "A floresta expira. Nada sobrevive ao sopro.",
+
+  "compendium.sylvanite-toxin.title": "Toxina Virulenta",
+  "compendium.sylvanite-toxin.description": "🌿 Acumulável (5×): o veneno da Sylvanite causa +25% de dano por tique por acúmulo. Máximo 5 acúmulos.",
+  "compendium.sylvanite-toxin.flavorText": "A floresta tem milênios de prática.",
+
+  "compendium.sylvanite-bloom.title": "Florescer da Natureza",
+  "compendium.sylvanite-bloom.description": "🌿 Acumulável (3×): no começo de cada onda, TODOS os aliados são curados em 10–30 HP.",
+  "compendium.sylvanite-bloom.flavorText": "Vida nova brota até no solo mais escuro.",
+
+  "compendium.sylvanite-roots.title": "Raízes Enredantes",
+  "compendium.sylvanite-roots.description": "🌿 Acumulável (3×): inimigos envenenados têm 20–65% de chance de ficarem presos por 1,5 segundo.",
+  "compendium.sylvanite-roots.flavorText": "A terra segura o que o olho não vê.",
+
+  "compendium.dreadlord-hunger.title": "Fome do Vazio",
+  "compendium.dreadlord-hunger.description": "💀 Acumulável (4×): cada abate aumenta permanentemente o dano do Senhor do Pavor em +2%. Os acúmulos se perdem se ele morrer.",
+  "compendium.dreadlord-hunger.flavorText": "Cada alma alimenta a escuridão por dentro.",
+
+  "compendium.dreadlord-edge.title": "Golpe do Vazio",
+  "compendium.dreadlord-edge.description": "💀 Senhor do Pavor +25% de dano base e chance de acerto duplo. Cada acúmulo de Colheita do Vazio também soma +4% de dano.",
+  "compendium.dreadlord-edge.flavorText": "Cada abate afia a lâmina.",
+
+  "compendium.dreadlord-rupture.title": "Ruptura do Vazio",
+  "compendium.dreadlord-rupture.description": "💀 Acumulável (3×): os tiros do Senhor do Pavor têm 30–90% de chance de explodir em área por 50% de dano de respingo.",
+  "compendium.dreadlord-rupture.flavorText": "Onde ele golpeia, a realidade racha.",
+
+  "compendium.dreadlord-harvest.title": "Gula do Vazio",
+  "compendium.dreadlord-harvest.description": "💀 Acumulável (3×): aumenta o teto da Colheita do Vazio em +5 por acúmulo (base 15 → até 30). Mais abates = mais poder.",
+  "compendium.dreadlord-harvest.flavorText": "O vazio nunca enche. Ele também não.",
+
+  "compendium.iron-discipline.title": "Disciplina de Ferro",
+  "compendium.iron-discipline.description": "⚔️ TODOS os aliados ganham +5% de dano por aliado vivo em campo. Escala com o tamanho do exército.",
+  "compendium.iron-discipline.flavorText": "Um exército disciplinado luta como uma lâmina só.",
+
+  "compendium.blood-price.title": "Preço de Sangue",
+  "compendium.blood-price.description": "💉 TODOS os aliados perdem 10% do HP máximo, mas ganham +30% de dano permanente. Sem dor, sem ganho.",
+  "compendium.blood-price.flavorText": "O preço valeu a pena. Sempre vale.",
+
+  "compendium.arcane-efficiency.title": "Eficiência Arcana",
+  "compendium.arcane-efficiency.description": "✨ Cada ataque tem 10% de chance de não acionar a recarga — disparando de novo na hora.",
+  "compendium.arcane-efficiency.flavorText": "Menos tempo desperdiçado. Mais inimigos desperdiçados.",
+
+  "compendium.eagle-eye.title": "Olho de Águia",
+  "compendium.eagle-eye.description": "🦅 TODOS os aliados ganham +15% de alcance permanente. Acumulável.",
+  "compendium.eagle-eye.flavorText": "Enxergue mais longe. Golpeie primeiro.",
+
+  "compendium.last-stand.title": "Última Resistência",
+  "compendium.last-stand.description": "🔥 TODOS os aliados ganham +15% de dano por aliado que morreu nesta run. Cresce conforme o exército cai.",
+  "compendium.last-stand.flavorText": "Os que caem tornam imparáveis os que ficam de pé.",
+
+  "compendium.overkill.title": "Excesso de Dano",
+  "compendium.overkill.description": "💥 O dano que sobra de um abate ricocheteia no inimigo mais próximo.",
+  "compendium.overkill.flavorText": "Por que parar em um?",
+
+  "compendium.momentum.title": "Embalo",
+  "compendium.momentum.description": "⚡ A cada 5 abates sem a Barreira levar dano: TODOS os aliados +2% de dano (máx 50 abates / +20%). Zera e reverte se a Barreira for atingida.",
+  "compendium.momentum.flavorText": "Continue andando. Continue matando.",
+
+  "compendium.glass-cannon.title": "Canhão de Vidro",
+  "compendium.glass-cannon.description": "🔱 TODOS os aliados perdem 50% do HP máximo, mas ganham +80% de dano permanente. Risco alto, recompensa devastadora.",
+  "compendium.glass-cannon.flavorText": "Eles se estilhaçam ao primeiro toque. Todo o resto se estilhaça antes.",
+
+  "compendium.fortitude.title": "Fortitude",
+  "compendium.fortitude.description": "💚 TODOS os aliados regeneram passivamente 2 HP por segundo.",
+  "compendium.fortitude.flavorText": "Uma ferida que não mata só endurece a determinação.",
+
+  "compendium.shield-wall.title": "Muro de Escudos",
+  "compendium.shield-wall.description": "🛡 O aliado com mais HP absorve 30% do dano causado aos aliados adjacentes.",
+  "compendium.shield-wall.flavorText": "O mais forte fica entre os fracos e a tempestade.",
+
+  "compendium.second-wind.title": "Segundo Fôlego",
+  "compendium.second-wind.description": "💨 Uma vez por onda, o primeiro aliado que morreria sobrevive com 1 HP.",
+  "compendium.second-wind.flavorText": "A morte estendeu a mão. Eles deram um passo para o lado.",
+
+  "compendium.gamblers-coin.title": "Moeda do Apostador",
+  "compendium.gamblers-coin.description": "🎲 Jogue a moeda: 50% de ganhar 600 de Ouro. 50% de perder 200 de Ouro. Vale na hora.",
+  "compendium.gamblers-coin.flavorText": "A fortuna premia os ousados. E também os castiga.",
+
+  "compendium.sacrifice.title": "Sacrifício",
+  "compendium.sacrifice.description": "☠ Remove um aliado aleatório permanentemente. TODOS os aliados restantes ganham +20% em todos os atributos.",
+  "compendium.sacrifice.flavorText": "Uma vida. Para afiar todas as outras.",
+
+  "compendium.cursed-strength.title": "Força Amaldiçoada",
+  "compendium.cursed-strength.description": "⚠️ TODOS os aliados ganham +40% de dano, mas os inimigos também causam +20% de dano.",
+  "compendium.cursed-strength.flavorText": "Poder sempre tem preço.",
+
+  "compendium.dark-bargain.title": "Barganha Sombria",
+  "compendium.dark-bargain.description": "🌑 A Barreira perde 15 de HP. TODOS os aliados ganham +25% de dano permanente.",
+  "compendium.dark-bargain.flavorText": "O muro sangra para o exército prosperar.",
+
+  "compendium.war-council.title": "Conselho de Guerra",
+  "compendium.war-council.description": "📜 Suas próximas 2 ofertas de subida de nível mostram 5 cartas em vez de 3.",
+  "compendium.war-council.flavorText": "Mais escolhas. Mais poder.",
+
+  "compendium.tactical-retreat.title": "Recuo Tático",
+  "compendium.tactical-retreat.description": "⚡ Uma vez por onda, quando um aliado cai abaixo de 20% de HP, ele se teleporta para a posição mais segura do grid e cura 25% do HP máximo.",
+  "compendium.tactical-retreat.flavorText": "Viva para lutar de novo. Essa é a única ordem.",
+
+  "compendium.bulwark-formation.title": "Formação Baluarte",
+  "compendium.bulwark-formation.description": "🛡 TODOS os aliados ganham um escudo permanente de 15 HP que se renova a cada onda.",
+  "compendium.bulwark-formation.flavorText": "Um muro de carne. Um muro de vontade.",
+
+  "compendium.transmutation.title": "Transmutação",
+  "compendium.transmutation.description": "⚗️ Converte todo o Ouro atual em XP. Cada 10 de ouro = 1 de XP bônus.",
+  "compendium.transmutation.flavorText": "O ouro passa. O poder fica.",
+
+  "compendium.soul-link.title": "Elo de Almas",
+  "compendium.soul-link.description": "🔗 Quando qualquer aliado é curado, TODOS os outros aliados curam 20% daquele valor também.",
+  "compendium.soul-link.flavorText": "Unidos na vida. Unidos na batalha.",
+
+  "compendium.archer-sniper.title": "Protocolo Franco-Atirador",
+  "compendium.archer-sniper.description": "🏹 A primeira flecha da Arqueira em cada onda causa dano triplo.",
+  "compendium.archer-sniper.flavorText": "O tiro de abertura decide a luta.",
+
+  "compendium.warlock-hex.title": "Praga",
+  "compendium.warlock-hex.description": "🌑 Os tiros do Bruxo amaldiçoam os alvos — inimigos praguejados recebem +25% de dano de TODAS as fontes por 4s.",
+  "compendium.warlock-hex.flavorText": "A maldição não liga para quem dá o próximo soco.",
+
+  "compendium.druid-spore.title": "Esporos Tóxicos",
+  "compendium.druid-spore.description": "🍂 Estação do Outono: dispara 5 esporos em vez de 3. Segundo acúmulo: o veneno dura 3× mais.",
+  "compendium.druid-spore.flavorText": "A floresta é paciente. E muito minuciosa.",
+
+  "compendium.cleric-divine-shield.title": "Escudo Divino",
+  "compendium.cleric-divine-shield.description": "✨ Todo 10º tiro da Clériga cria um escudo de absorção de 20 de dano no aliado mais ferido.",
+  "compendium.cleric-divine-shield.flavorText": "Luz sagrada feita sólida.",
+
+  "compendium.paladin-holy-ground.title": "Solo Sagrado",
+  "compendium.paladin-holy-ground.description": "🛡 O Paladino consagra o campo de batalha — todos os inimigos andam 20% mais devagar permanentemente.",
+  "compendium.paladin-holy-ground.flavorText": "Andar aqui é andar sob julgamento.",
+
+  "compendium.priest-mass-mending.title": "Restauro em Massa",
+  "compendium.priest-mass-mending.description": "⚕ O Sacerdote agora cura TODOS os aliados feridos a cada tiro, não só o mais machucado.",
+  "compendium.priest-mass-mending.flavorText": "Ninguém fica para trás.",
+
+  "compendium.bard-dirge.title": "Canto Fúnebre",
+  "compendium.bard-dirge.description": "🎵 A aura do Bardo lentifica todos os inimigos no alcance em 30% e reduz o dano deles em 20%.",
+  "compendium.bard-dirge.flavorText": "A última canção que eles vão ouvir, tocada devagar.",
+
+  "compendium.archer-storm.title": "Tempestade de Flechas",
+  "compendium.archer-storm.description": "🏹 MÍTICA: a Arqueira entra em frenesi permanente — velocidade de ataque triplicada, flechas atravessam todos os inimigos, e a Chuva de Flechas dispara sozinha a cada 8 abates.",
+  "compendium.archer-storm.flavorText": "O céu escurece. As flechas não acabam.",
+
+  "compendium.mage-overload.title": "Sobrecarga Arcana",
+  "compendium.mage-overload.description": "🔮 Todo 10º tiro do Mago solta uma Explosão Arcana — 300% de dano numa área de 120px. Cada acúmulo reduz o gatilho para cada 8º tiro.",
+  "compendium.mage-overload.flavorText": "O feitiço não quebra. Ele transborda.",
+
+  "compendium.mage-singularity.title": "Singularidade Arcana",
+  "compendium.mage-singularity.description": "🔮 MÍTICA: todo 15º tiro do Mago rasga uma fenda do vazio que puxa todos os inimigos num raio de 200px e detona. Eco e Bola de Fogo disparam ao mesmo tempo dentro da fenda.",
+  "compendium.mage-singularity.flavorText": "O feitiço não escolhe um alvo. Escolhe todo mundo.",
+
+  "compendium.warlock-ascension.title": "Ascensão do Vazio",
+  "compendium.warlock-ascension.description": "🌑 MÍTICA: o Bruxo perde 2% de HP/s, mas cada tiro salta para 3 inimigos a mais e causa 3× de dano. Sobreviver à onda restaura todo o HP.",
+  "compendium.warlock-ascension.flavorText": "Poder absoluto tem preço. Ele pagou adiantado.",
+
+  "compendium.druid-ancientwill.title": "Vontade Ancestral",
+  "compendium.druid-ancientwill.description": "🌿 MÍTICA: a Druida aplica 2 estações ao mesmo tempo em cada tiro. No começo da onda, os espíritos lentificam TODOS os inimigos em 30% por 10s. O Eclipse Druídico dispara sozinho a cada ciclo.",
+  "compendium.druid-ancientwill.flavorText": "A floresta não tem estação favorita. Ela prefere todas de uma vez."
+}

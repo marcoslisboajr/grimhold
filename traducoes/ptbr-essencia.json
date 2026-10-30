@@ -1,0 +1,9 @@
+{
+  "ui.levelUp.essenceReward": "+{{n}} Essência",
+  "ui.toast.essenceAwarded": "+{{n}} Essência concedida",
+  "ui.daily.essenceAwardedFull": "+{{n}} Essência concedida. Volte amanhã para um novo desafio.",
+  "ui.daily.essenceReward": "+{{n}} Essência",
+  "ui.daily.autoAwarded": "Concedida automaticamente quando todos os {{n}} objetivos forem completados.",
+  "ui.forge.cost": "{{n}} Essência",
+  "ui.forge.need": "(faltam {{n}})"
+}

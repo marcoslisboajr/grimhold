@@ -1,0 +1,10 @@
+{
+  "ui.rarity.epic": "史诗",
+  "damageType.physical.full": "物理",
+  "damageType.arcane.full": "奥术",
+  "damageType.nature.full": "自然",
+  "damageType.holy.full": "神圣",
+  "damageType.death.full": "死亡",
+  "damageType.shadow.full": "暗影",
+  "damageType.chaos.full": "混沌"
+}

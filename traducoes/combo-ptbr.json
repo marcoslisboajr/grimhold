@@ -1,0 +1,144 @@
+{
+  "combo.sacred-trinity.name": "Trindade Sagrada",
+  "combo.sacred-trinity.desc.0": "Todas as unidades sagradas +28% de Dano e a Barreira regenera +4 HP/5s extra",
+  "combo.sacred-trinity.desc.1": "Todas as unidades sagradas +65% de Dano, +60% de Potência de Cura e a Barreira regenera +10 HP/5s extra",
+
+  "combo.natures-wrath.name": "Ira da Natureza",
+  "combo.natures-wrath.desc.0": "Druida e Arqueira +18% de Vel. Ataque e +8% de Chance de Crítico",
+  "combo.natures-wrath.desc.1": "Druida e Arqueira +42% de Vel. Ataque e +22% de Chance de Crítico, e a Druida enraíza no crítico",
+
+  "combo.arcane-storm.name": "Tempestade Arcana",
+  "combo.arcane-storm.desc.0": "Mago e Bruxo +30% de Dano e +18% de Alcance",
+  "combo.arcane-storm.desc.1": "Mago e Bruxo +65% de Dano e +40% de Alcance, e os feitiços causam 10% mais",
+
+  "combo.iron-bulwark.name": "Baluarte de Ferro",
+  "combo.iron-bulwark.desc.0": "A Barreira recebe 18% menos dano e o Paladino ganha +25% de HP",
+  "combo.iron-bulwark.desc.1": "A Barreira recebe 35% menos dano, o Paladino ganha +55% de HP e a regeneração da Clériga fica 2,5×",
+
+  "combo.ballad-of-blood.name": "Balada de Sangue",
+  "combo.ballad-of-blood.desc.0": "A aura do Bardo também dá +12% de Dano aos aliados próximos",
+  "combo.ballad-of-blood.desc.1": "A aura do Bardo dá +28% de Dano e +15% de Vel. Ataque aos aliados próximos",
+
+  "combo.death-choir.name": "Coro da Morte",
+  "combo.death-choir.desc.0": "Os esqueletos do Necromante causam +70% de Dano e vivem 30% mais",
+  "combo.death-choir.desc.1": "Os esqueletos do Necromante causam +180% de Dano e a aura do Bardo revive aliados caídos uma vez",
+
+  "combo.arcane-barrage.name": "Barragem Arcana",
+  "combo.arcane-barrage.desc.0": "Mago e Arqueira +15% de Alcance e os projéteis atravessam 1 inimigo a mais",
+  "combo.arcane-barrage.desc.1": "Mago e Arqueira +35% de Alcance e os projéteis atravessam 2 inimigos a mais",
+
+  "combo.soul-mending.name": "Restauro de Almas",
+  "combo.soul-mending.desc.0": "As curas do Sacerdote se espalham para 2 aliados próximos e a aura do Bardo fica +20% maior",
+  "combo.soul-mending.desc.1": "As curas do Sacerdote se espalham para TODOS os aliados e a aura do Bardo concede regeneração",
+
+  "combo.wild-hunt.name": "Caçada Selvagem",
+  "combo.wild-hunt.desc.0": "Arqueira e Druida +18% de Dano, alcance da aura do Bardo +50%",
+  "combo.wild-hunt.desc.1": "Arqueira e Druida +40% de Dano e Vel. Ataque, e o Bardo vira causador de dano",
+
+  "combo.storm-forge.name": "Forja da Tempestade",
+  "combo.storm-forge.desc.0": "A cadeia do Ferreiro Rúnico atinge +1 inimigo a mais, Mago e Ferreiro Rúnico +40% de Dano",
+  "combo.storm-forge.desc.1": "O raio em cadeia dispara sempre, Mago e Ferreiro Rúnico +85% de Dano e +30% de Alcance",
+
+  "combo.verdant-pact.name": "Pacto Verdejante",
+  "combo.verdant-pact.desc.0": "O crítico da Druida também envenena, Sylvanite e Druida +40% de Dano",
+  "combo.verdant-pact.desc.1": "Sylvanite e Druida +85% de Dano, duração do veneno dobrada e enraíza no crítico",
+
+  "combo.dark-hunger.name": "Fome Sombria",
+  "combo.dark-hunger.desc.0": "Senhor do Pavor e Bruxo +65% de Dano, e os abates restauram 5 HP ao Senhor do Pavor",
+  "combo.dark-hunger.desc.1": "Senhor do Pavor e Bruxo +140% de Dano, e o Senhor do Pavor nunca cai abaixo de 5 HP",
+
+  "combo.life-forge.name": "Forja da Vida",
+  "combo.life-forge.desc.0": "As curas do Sacerdote ficam +45% mais fortes, aura de regeneração da Sylvanite 2,5×",
+  "combo.life-forge.desc.1": "Cada cura do Sacerdote também envenena os inimigos próximos e a Sylvanite revive 1 aliado uma vez por onda",
+
+  "combo.arcane-ruin.name": "Ruína Arcana",
+  "combo.arcane-ruin.desc.0": "As 3 classes +50% de Dano e +20% de Alcance, e as runas disparam a cada 3º tiro",
+  "combo.arcane-ruin.desc.1": "As 3 classes +110% de Dano, e o raio em cadeia dispara a cada 2º tiro",
+
+  "combo.fools-carnival.name": "Carnaval do Bobo",
+  "combo.fools-carnival.desc.0": "A aura do Bardo dá um bônus aleatório de +20% num atributo a cada onda, e os abates do Bobo têm +15% de chance de soltar ouro",
+  "combo.fools-carnival.desc.1": "A aura do Bardo fortalece TODOS os aliados a cada onda, e os abates do Bobo dão +8% de vel. de ataque, acumulando até +40%",
+
+  "combo.sacred-grove.name": "Bosque Sagrado",
+  "combo.sacred-grove.desc.0": "A aura de regeneração da Clériga cura +30% mais, e a regeneração da Sylvanite também afeta a Barreira (+2 HP/5s)",
+  "combo.sacred-grove.desc.1": "A aura de regeneração da Clériga cura +70% mais, a regeneração da Barreira triplica e a Sylvanite envenena os inimigos que entram no alcance",
+
+  "combo.fallen-crusade.name": "Cruzada Caída",
+  "combo.fallen-crusade.desc.0": "Paladino e Bruxo +40% de Dano, a Praga do Bruxo dura 2s a mais e o Paladino ganha escudo sombrio (+10% de redução de dano)",
+  "combo.fallen-crusade.desc.1": "Paladino e Bruxo +90% de Dano, os inimigos praguejados também sangram e o golpe sagrado do Paladino salta para 1 inimigo a mais",
+
+  "combo.blood-rush.name": "Ímpeto de Sangue",
+  "combo.blood-rush.desc.0": "Vex +20% de Dano e 6% de roubo de vida na Investida de Sai, Bruxo +50% de Dano",
+  "combo.blood-rush.desc.1": "Vex com 12% de roubo de vida na Investida de Sai, Bruxo +50% de Dano, e a Investida ganha 2 acertos extras em área",
+  "combo.blood-rush.desc.2": "✦ HEMORRAGIA: cada Investida de Sai deixa uma poça de sangue — os inimigos dentro dela sangram pelo HP máximo. A Vex fica imortal abaixo de 20% de HP.",
+
+  "combo.shadow-step.name": "Passo Sombrio",
+  "combo.shadow-step.desc.0": "A Investida de Sai tem 40% de chance de erguer um esqueleto no ponto de impacto",
+  "combo.shadow-step.desc.1": "Área da Investida de Sai +60% maior, os esqueletos erguidos são de elite (+150% de HP e Dano) e o salto dura +300ms",
+  "combo.shadow-step.desc.2": "✦ SALTO MORTAL: a Investida de Sai SEMPRE ergue um esqueleto de elite. Cada abate de esqueleto dispara na hora outra Investida de Sai grátis.",
+
+  "combo.ghost-hunt.name": "Caçada Fantasma",
+  "combo.ghost-hunt.desc.0": "Vex e Arqueira +30% de Vel. Ataque. A Investida de Sai marca o alvo — todos os aliados causam +25% de Dano nele por 3s",
+  "combo.ghost-hunt.desc.1": "Vex e Arqueira +60% de Vel. Ataque e +35% de Dano. Inimigos marcados recebem o dobro de dano da Investida de Sai",
+  "combo.ghost-hunt.desc.2": "✦ SARAIVADA FANTASMA: cada Investida de Sai dispara 3 flechas espectrais de TODAS as Arqueiras. Inimigos marcados explodem ao morrer por 300% do HP máximo deles nos inimigos próximos.",
+
+  "combo.umbral-brood.name": "Ninhada Umbral",
+  "combo.umbral-brood.desc.0": "O veneno da Zylvara causa +50% de dano e o Passo Sombrio acontece 1 ataque mais cedo",
+  "combo.umbral-brood.desc.1": "Zylvara +85% de Dano, o veneno se espalha ao matar e os críticos do Passo Sombrio executam abaixo de 18% de HP",
+  "combo.umbral-brood.desc.2": "✦ COLÔNIA NOTURNA: Zylvara +140% de Dano, Passo Sombrio a cada 3 ataques, o veneno fica permanente e executa abaixo de 25% de HP",
+
+  "combo.coven-pyre.name": "Pira do Coven",
+  "combo.coven-pyre.desc.0": "Morrigan +45% de Dano. As Cinzas queimam mais forte e as ondas de maldição ficam 30% maiores",
+  "combo.coven-pyre.desc.1": "Morrigan +90% de Dano. A Praga Viva causa +60% de dano e salta 1 vez a mais",
+  "combo.coven-pyre.desc.2": "✦ FOGO-BRUXO ASCENDENTE: Morrigan +150% de Dano. As explosões de Cinzas ficam enormes, a Praga Viva encadeia por grupos e as ondas de maldição cobrem a pista",
+
+  "combo.riot-engine.name": "Motor do Tumulto",
+  "combo.riot-engine.desc.0": "A Ixara ganha Fúria 50% mais rápido e a Nova do Caos causa +45% de dano",
+  "combo.riot-engine.desc.1": "Ixara +85% de Dano, +30% de Vel. Ataque e a Nova do Caos dispara 1 ataque mais cedo",
+  "combo.riot-engine.desc.2": "✦ TUMULTO TOTAL: Ixara +140% de Dano, +45% de Vel. Ataque, Nova do Caos a cada 3 ataques e as novas na Fúria máxima restauram 15 HP da Barreira",
+
+  "combo.grave-contagion.name": "Contágio Sepulcral",
+  "combo.grave-contagion.desc.0": "Morrigan e Necromante +35% de Dano. Abates amaldiçoados têm 25% de chance de erguer um morto-vivo",
+  "combo.grave-contagion.desc.1": "Morrigan e Necromante +80% de Dano. Abates amaldiçoados têm 45% de chance de erguer um morto-vivo mais forte",
+  "combo.grave-contagion.desc.2": "✦ PROCISSÃO DA PESTE: Morrigan e Necromante +130% de Dano. Abates amaldiçoados quase sempre erguem mortos-vivos, e todos os erguidos espalham maldição ao acertar",
+
+  "combo.shadow-execution.name": "Execução Sombria",
+  "combo.shadow-execution.desc.0": "Zylvara e Vex +35% de Dano. Os acertos delas marcam a presa para receber +18% de dano extra",
+  "combo.shadow-execution.desc.1": "Zylvara e Vex +85% de Dano. A presa marcada recebe +30% de dano extra e os golpes finais das assassinas executam abaixo de 18% de HP",
+  "combo.shadow-execution.desc.2": "✦ JULGAMENTO DO ANOITECER: Zylvara e Vex +140% de Dano. A presa marcada recebe +45% de dano e as duas assassinas executam não-chefes abaixo de 25% de HP",
+
+  "combo.hunters-sigil.name": "Sigilo da Caçadora",
+  "combo.hunters-sigil.desc.0": "A Zylvara marca a presa por 4s. Arqueira e Zylvara causam +35% de dano à distância em inimigos marcados",
+  "combo.hunters-sigil.desc.1": "A presa marcada recebe +70% de dano à distância. Arqueira e Zylvara ganham +20% de Vel. Ataque e abates marcados explodem nos inimigos próximos",
+  "combo.hunters-sigil.desc.2": "✦ SARAIVADA TERMINAL: a presa marcada recebe +100% de dano à distância. Arqueira e Zylvara ganham +35% de Vel. Ataque e as execuções cobrem a pista de estilhaços de veneno",
+
+  "combo.berserker-core.name": "Núcleo Berserker",
+  "combo.berserker-core.desc.0": "Ixara +25% de Dano. Cada acúmulo de Fúria dá 3% de redução de dano",
+  "combo.berserker-core.desc.1": "Ixara +55% de Dano. Cada acúmulo de Fúria dá 4% de redução de dano e a Nova do Caos na Fúria máxima restaura 10 HP da Barreira",
+  "combo.berserker-core.desc.2": "✦ HALO VERMELHO: Ixara +95% de Dano, Paladino +45% de Dano. Cada acúmulo de Fúria dá 5% de redução de dano e a nova na Fúria máxima restaura 18 HP da Barreira",
+
+  "combo.war-anthem.name": "Hino de Guerra",
+  "combo.war-anthem.desc.0": "Enquanto a Ixara está com Fúria alta, todos os aliados ganham +14% de Vel. Ataque",
+  "combo.war-anthem.desc.1": "Enquanto a Ixara está com Fúria alta, todos os aliados ganham +24% de Vel. Ataque e +18% de Dano",
+  "combo.war-anthem.desc.2": "✦ CORO DO TUMULTO: enquanto a Ixara está com Fúria alta, todos os aliados ganham +35% de Vel. Ataque, +30% de Dano e todo 10º acerto dispara uma mini Nova do Caos",
+
+  "combo.blood-and-ice.name": "Sangue e Gelo",
+  "combo.blood-and-ice.desc.0": "Berserker e Guardiã do Gelo +30% de Dano. As Placas de Gelo aceleram o bônus da Ira Sangrenta do Berserker",
+  "combo.blood-and-ice.desc.1": "Berserker e Guardiã do Gelo +65% de Dano. Inimigos congelados recebem +40% de dano físico",
+  "combo.blood-and-ice.desc.2": "✦ FÚRIA CONGELADA: Berserker e Guardiã do Gelo +110% de Dano. A Fúria Sanguinária congela todos os inimigos próximos e os estilhaços da Muralha Glacial causam dano físico",
+
+  "combo.divine-verdict.name": "Veredito Divino",
+  "combo.divine-verdict.desc.0": "Inquisidor e Paladino +35% de Dano. A Sentença também aplica Solo Consagrado no local do alvo",
+  "combo.divine-verdict.desc.1": "Inquisidor e Paladino +75% de Dano. O bônus do Veredito também vale para o Paladino contra os tipos de inimigo sentenciados",
+  "combo.divine-verdict.desc.2": "✦ TRIBUNAL SAGRADO: Inquisidor e Paladino +120% de Dano. A Sentença marca a tela inteira — todos os inimigos recebem +20% de dano e os chefes não conseguem resistir a Atordoamento",
+
+  "combo.iron-conviction.name": "Convicção de Ferro",
+  "combo.iron-conviction.desc.0": "Berserker e Inquisidor +30% de Dano. Inimigos Sentenciados recebem o bônus completo da Ira Sangrenta do Berserker",
+  "combo.iron-conviction.desc.1": "Berserker e Inquisidor +70% de Dano. Abates do Veredito também dão +2% de dano permanente ao Berserker",
+  "combo.iron-conviction.desc.2": "✦ IRA ENCARNADA: Berserker e Inquisidor +120% de Dano. A Fúria Sanguinária sentencia sozinha todos os inimigos na tela e os acúmulos do Veredito dobram durante ela",
+
+  "combo.permafrost-ward.name": "Guarda Permafrost",
+  "combo.permafrost-ward.desc.0": "Guardiã do Gelo e Clériga +30% de Dano. As Placas de Gelo também pulsam uma cura pequena nos aliados próximos",
+  "combo.permafrost-ward.desc.1": "Guardiã do Gelo e Clériga +65% de Dano. A Muralha Glacial bloqueia dano na barreira enquanto estiver de pé",
+  "combo.permafrost-ward.desc.2": "✦ SANTUÁRIO GLACIAL: Guardiã do Gelo e Clériga +110% de Dano. O Congelamento Instantâneo também cura todos os aliados em 20 HP e as muralhas permanentes refletem 50% do dano de volta a quem ataca"
+}

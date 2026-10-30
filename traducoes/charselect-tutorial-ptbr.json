@@ -1,0 +1,16 @@
+{
+  "ui.charSelectTutorial.step.hero.title": "Escolha Seu Herói",
+  "ui.charSelectTutorial.step.hero.desc": "Cada herói tem um estilo de jogo, tipo de dano e habilidade únicos. Navegue pela lista à esquerda e clique para ver um herói antes de escolher.",
+  "ui.charSelectTutorial.step.relics.title": "Relíquias",
+  "ui.charSelectTutorial.step.relics.desc": "Cada herói desbloqueia Relíquias conforme você ganha Maestria. Relíquias são bônus passivos poderosos ativos pela run inteira — elas acumulam com sinergias e bônus da árvore de perícias.",
+  "ui.charSelectTutorial.step.relics.tab": "Relíquias",
+  "ui.charSelectTutorial.step.draft.title": "Draft",
+  "ui.charSelectTutorial.step.draft.desc": "Fixe até 2 heróis no Draft. Heróis fixados aparecem com mais frequência na loja durante a run, deixando você montar um time em volta da sua estratégia.",
+  "ui.charSelectTutorial.step.draft.tab": "Draft",
+  "ui.charSelectTutorial.step.skills.title": "Árvore de Perícias",
+  "ui.charSelectTutorial.step.skills.desc": "Gaste pontos de Maestria para desbloquear nós na Árvore de Perícias do seu herói. Cada nível de Maestria dá 1 ponto. Escolha entre dois caminhos — não dá pra desbloquear tudo, então planeje sua build!",
+  "ui.charSelectTutorial.step.skills.tab": "Perícias",
+  "ui.charSelectTutorial.findIt": "→ Encontre na aba <1>{{tab}}</1> ←",
+  "ui.charSelectTutorial.next": "Próximo →",
+  "ui.charSelectTutorial.stepCounter": "{{current}} de {{total}}"
+}

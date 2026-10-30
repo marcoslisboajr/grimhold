@@ -1,0 +1,91 @@
+{
+  "synergy.archer.name": "Patrulha",
+  "synergy.archer.level.0.desc": "+10% de Vel. Ataque",
+  "synergy.archer.level.1.desc": "+22% de Vel. Ataque",
+  "synergy.archer.level.2.desc": "+35% de Vel. Ataque",
+  "synergy.archer.level.3.desc": "🔥 SARAIVADA: +55% de Vel. Ataque e dispara 2 flechas por tiro",
+
+  "synergy.mage.name": "Círculo Arcano",
+  "synergy.mage.level.0.desc": "+12% de Dano",
+  "synergy.mage.level.1.desc": "+30% de Dano",
+  "synergy.mage.level.2.desc": "+60% de Dano",
+  "synergy.mage.level.3.desc": "🔥 SOBRECARGA ARCANA: +100% de Dano e cada tiro tem 35% de chance de explodir em área",
+
+  "synergy.warlock.name": "Pacto Sombrio",
+  "synergy.warlock.level.0.desc": "+18% de Alcance/Velocidade",
+  "synergy.warlock.level.1.desc": "+45% de Alcance/Velocidade",
+  "synergy.warlock.level.2.desc": "+80% de Alcance/Velocidade",
+  "synergy.warlock.level.3.desc": "🔥 ASCENSÃO DO VAZIO: +130% de Alcance/Velocidade, os tiros roubam 15% do HP e lentificam os inimigos -60%",
+
+  "synergy.druid.name": "Força da Natureza",
+  "synergy.druid.level.0.desc": "As estações avançam a cada 9 tiros",
+  "synergy.druid.level.1.desc": "As estações avançam a cada 7 tiros, tiros de estação +15% de dano",
+  "synergy.druid.level.2.desc": "As estações avançam a cada 5 tiros, +30% de dano, o Eclipse Druídico ativa sozinho",
+  "synergy.druid.level.3.desc": "🔥 ÁRVORE DO MUNDO: as estações avançam a cada 3 tiros, +60% de dano, TODAS as estações disparam ao mesmo tempo",
+
+  "synergy.necromancer.name": "Horda Morta-Viva",
+  "synergy.necromancer.level.0.desc": "+1 Morto-Vivo no começo da onda",
+  "synergy.necromancer.level.1.desc": "+2 Mortos-Vivos no começo da onda, +20% de dano deles",
+  "synergy.necromancer.level.2.desc": "+3 Mortos-Vivos no começo da onda, +50% de dano deles",
+  "synergy.necromancer.level.3.desc": "🔥 ASCENSÃO DO LICH: +5 Mortos-Vivos de Elite (2× HP/Dano) e todos os mortos-vivos ficam permanentes",
+
+  "synergy.bard.name": "Harmonia",
+  "synergy.bard.level.0.desc": "+50% de Alcance da Aura",
+  "synergy.bard.level.1.desc": "+110% de Alcance da Aura",
+  "synergy.bard.level.2.desc": "+200% de Alcance da Aura",
+  "synergy.bard.level.3.desc": "🔥 GRANDE SINFONIA: alcance de aura infinito e todos os aliados ganham +45% de Dano e +30% de Vel. Ataque globalmente",
+
+  "synergy.cleric.name": "Fé Inabalável",
+  "synergy.cleric.level.0.desc": "+3 de Regeneração/5s",
+  "synergy.cleric.level.1.desc": "+8 de Regeneração/5s",
+  "synergy.cleric.level.2.desc": "+18 de Regeneração/5s",
+  "synergy.cleric.level.3.desc": "🔥 ÉGIDE DIVINA: +40 de Regeneração/5s e a Barreira fica imune a dano por 4s no começo da onda",
+
+  "synergy.paladin.name": "Vanguarda Sagrada",
+  "synergy.paladin.level.0.desc": "+60% de Dano contra Mortos-Vivos",
+  "synergy.paladin.level.1.desc": "+110% de Dano contra Mortos-Vivos",
+  "synergy.paladin.level.2.desc": "+180% de Dano contra Mortos-Vivos",
+  "synergy.paladin.level.3.desc": "🔥 CRUZADA: +300% de Dano contra Mortos-Vivos e Castigo Sagrado em área a cada 3º acerto, atordoando TODOS os inimigos por 1,5s",
+
+  "synergy.priest.name": "Luz Divina",
+  "synergy.priest.level.0.desc": "Cura +20% de Potência",
+  "synergy.priest.level.1.desc": "Cura +50% de Potência",
+  "synergy.priest.level.2.desc": "Cura +90% de Potência",
+  "synergy.priest.level.3.desc": "🔥 RESSURREIÇÃO: Cura +160% de Potência e revive aliados caídos uma vez por onda com 50% de HP",
+
+  "synergy.runesmith.name": "Rede Rúnica",
+  "synergy.runesmith.level.0.desc": "Raio em cadeia a cada 5º tiro",
+  "synergy.runesmith.level.1.desc": "Cadeia a cada 3º tiro, +45% de Dano",
+  "synergy.runesmith.level.2.desc": "Cadeia a cada 3º tiro, atinge 5 inimigos, +80% de Dano",
+  "synergy.runesmith.level.3.desc": "✦ SINGULARIDADE RÚNICA: cadeia a cada tiro, atinge TODOS os inimigos, +150% de Dano e os sigilos explodem no contato",
+
+  "synergy.sylvanite.name": "Bosque Ancestral",
+  "synergy.sylvanite.level.0.desc": "+6 de regeneração de HP/5s para todos os aliados",
+  "synergy.sylvanite.level.1.desc": "+15 de regeneração de HP/5s, o veneno acumula 2×",
+  "synergy.sylvanite.level.2.desc": "+30 de regeneração de HP/5s, o veneno acumula 3× e vira área",
+  "synergy.sylvanite.level.3.desc": "✦ FLORESCER DO MUNDO: +60 de regeneração de HP/5s, o veneno é permanente e se espalha para todos os inimigos próximos",
+
+  "synergy.dreadlord.name": "Convênio do Vazio",
+  "synergy.dreadlord.level.0.desc": "Teto da Colheita do Vazio +5, cada acúmulo +12% de Dano",
+  "synergy.dreadlord.level.1.desc": "+140% de Dano, os acúmulos por abate dobram",
+  "synergy.dreadlord.level.2.desc": "+200% de Dano, os acúmulos passam entre ondas",
+  "synergy.dreadlord.level.3.desc": "✦✦ ASCENDENTE DO VAZIO: +350% de Dano, acúmulos de Colheita do Vazio ilimitados, cada abate explode em área",
+
+  "synergy.vex.name": "Passo Fantasma",
+  "synergy.vex.level.0.desc": "Investida de Sai a cada 4º ataque (era 5º)",
+  "synergy.vex.level.1.desc": "Investida de Sai a cada 3º ataque, +25% de Dano no salto",
+  "synergy.vex.level.2.desc": "Investida de Sai a cada 2º ataque, +60% de Dano no salto, o salto dura 900ms",
+  "synergy.vex.level.3.desc": "✦ SALTO SEM FIM: TODO ataque é uma Investida de Sai, +120% de Dano no salto, e ela não pode ser alvo enquanto salta",
+
+  "synergy.jester.name": "Corte do Bobo",
+  "synergy.jester.level.0.desc": "O ciclo de bolas acelera — cada cor dispara 20% mais rápido",
+  "synergy.jester.level.1.desc": "Os 3 efeitos de bola disparam juntos a cada 5º ataque, +30% de Dano",
+  "synergy.jester.level.2.desc": "+60% de Dano, a confusão dura 2× mais, a bola dourada cura TODOS os aliados",
+  "synergy.jester.level.3.desc": "🔥 GRANDE CIRCO: +100% de Dano, cada ataque dispara as 3 bolas, e a confusão se espalha para os inimigos próximos",
+
+  "synergy.morrigan.name": "Coven de Bruxas",
+  "synergy.morrigan.level.0.desc": "As Cinzas acumulam 30% mais rápido, as explosões de maldição causam +25% de Dano",
+  "synergy.morrigan.level.1.desc": "As Cinzas acumulam 60% mais rápido, a Praga Viva salta para 2 alvos a mais, +50% de Dano",
+  "synergy.morrigan.level.2.desc": "As explosões de maldição encadeiam entre inimigos, salvar a barreira custa 10 HP em vez de 15, +80% de Dano",
+  "synergy.morrigan.level.3.desc": "🔥 COVEN DA RUÍNA: explosão de Cinzas instantânea a cada 3º acerto, todas as pragas ficam permanentes, e salvar a barreira é de graça"
+}

@@ -1,0 +1,56 @@
+{
+  "ui.common.back": "返回",
+  "ui.common.tagline": "Tower Defense Roguelike",
+  "ui.common.close": "关闭",
+  "ui.common.skip": "跳过",
+
+  "ui.language.label": "语言",
+  "ui.language.fallbackNote": "未翻译的文本将显示为英文。",
+
+  "ui.game.over": "游戏结束",
+
+  "ui.shop.availableAt": "可在商店购买",
+  "ui.shop.click": "点击",
+
+  "ui.battlePass.claim": "领取",
+  "ui.battlePass.footer": "第一赛季 · Grimhold的觉醒 · 游玩以获取经验",
+
+  "ui.daily.title": "每日挑战",
+  "ui.daily.complete": "挑战完成！",
+  "ui.daily.reward": "每日奖励",
+
+  "ui.rotate.title": "请旋转设备",
+  "ui.rotate.body": "GRIMHOLD需要横屏模式。",
+
+  "ui.toast.achievement": "成就解锁！",
+  "ui.toast.heroUnlocked": "英雄已解锁",
+  "ui.toast.heroWhere": "可在英雄选择中查看",
+  "ui.toast.dailyDone": "每日挑战完成！",
+  "ui.toast.dailyCleared": "所有目标已完成！",
+  "ui.toast.danger": "危险！",
+  "ui.toast.accountLevelUp": "账号等级提升！",
+
+  "ui.titles.choose": "选择称号",
+  "ui.titles.counter": "已解锁 {{n}} / {{total}}",
+  "ui.titles.none": "尚未解锁任何称号。",
+  "ui.titles.noneHint": "达到账号等级1即可获得首个称号。",
+  "ui.titles.equipped": "✓ 已装备",
+
+  "ui.card.momentum.title": "势头",
+  "ui.card.momentum.description": "⚡ 屏障每连续5次未受损的击杀：全体盟友+2%伤害（最多+20%，50次击杀）。屏障受损时重置并撤销。",
+  "ui.card.shield-wall.title": "盾墙",
+  "ui.card.shield-wall.description": "🛡 生命值最高的盟友吸收全体其他盟友所受伤害的30%。",
+
+  "ui.avatars.choose": "选择头像",
+
+  "ui.bestiary.title": "图鉴",
+  "ui.bestiary.tagline": "知己知彼，方能不亡",
+  "ui.bestiary.waveLabel": "波次",
+  "ui.bestiary.abilities": "能力",
+  "ui.bestiary.statHp": "生命",
+  "ui.bestiary.catalogued": "已收录{{n}}种生物",
+  "ui.bestiary.slain": "已击杀{{n}}",
+  "ui.bestiary.more": "还有{{n}}个…",
+  "ui.bestiary.statDmg": "伤害",
+  "ui.bestiary.statSpeed": "速度"
+}

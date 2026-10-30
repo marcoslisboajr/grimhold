@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="theme-color" content="#1a1a2e" />
+    <title>Grimhold</title>
+
+    <style>
+      html { height: 100%; }
+      body { min-height: 100%; height: 100vh; height: 100dvh; }
+      #root { position: fixed; inset: 0; width: 100%; height: 100%; }
+    </style>
+
+    <!-- Fontes do jogo servidas DO DISCO (geradas por scripts/fonts-local.mjs).
+         Antes vinham do fonts.googleapis.com, o que fazia o jogo depender de
+         internet pra ter a propria cara: sem rede, abria com serifada do
+         sistema. Na Steam isso nao pode acontecer. -->
+    <link href="./fonts/latin.css" rel="stylesheet">
+
+    <!-- Noto Sans SC servida DO DISCO (gerada por scripts/fonts-cjk.mjs).
+         Vai como <link> e nao como @import no index.css porque o Tailwind
+         nao resolve caminho de /public em tempo de build.
+         Sao ~100 pedacos com unicode-range: o navegador baixa so o que a
+         tela precisa (uns KB), embora o disco leve 2,3 MB. -->
+    <link href="./fonts/noto-sans-sc.css" rel="stylesheet">
+
+    <!-- Fontes pixel (Jersey 10/15, geradas por scripts/fonts-local.mjs pixel)
+         pra HUD/menus pixel art (B1b). Sem glifo chines: a Noto assume la. -->
+    <link href="./fonts/pixel.css" rel="stylesheet">
+
+    <style>
+      *, *::before, *::after { box-sizing: border-box; }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        height: 100dvh;
+        overflow: hidden;
+        touch-action: none;
+        background-color: #0d0b18;
+        color: #e0e0e0;
+        font-family: 'Cardo', 'MedievalSharp', 'Noto Sans SC', serif;
+      }
+
+      #root {
+        width: 100%;
+        height: 100%;
+        height: 100dvh;
+      }
+
+      .font-fantasy {
+        font-family: 'Jersey 10', 'Cardo', 'MedievalSharp', 'Noto Sans SC', serif;
+      }
+
+      ::-webkit-scrollbar { width: 8px; }
+      ::-webkit-scrollbar-track { background: #0f172a; }
+      ::-webkit-scrollbar-thumb { background: #475569; }
+      ::-webkit-scrollbar-thumb:hover { background: #64748b; }
+
+      .no-select {
+        -webkit-user-select: none;
+        user-select: none;
+      }
+    </style>
+
+    <link rel="stylesheet" href="/index.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,91 @@
+{
+  "ui.hud.synergyMax": "★ MÁX",
+  "ui.hud.wave": "Onda",
+  "ui.hud.tabRun": "Run",
+  "ui.hud.tabSynergies": "✦ Sinergias",
+  "ui.hud.cardPicked": "{{n}} carta escolhida",
+  "ui.hud.cardsPicked": "{{n}} cartas escolhidas",
+  "ui.hud.itemBought": "{{n}} item comprado",
+  "ui.hud.itemsBought": "{{n}} itens comprados",
+  "ui.hud.summonsCount": "Invocações {{cur}}/{{max}}",
+  "ui.hud.wavesLeft": "faltam {{n}}o",
+
+  "ui.spell.cost": "Custo: {{n}}o",
+  "ui.spell.cooldown": "Recarga: {{n}}s",
+  "ui.float.essences": "+5 ESSÊNCIAS",
+  "ui.float.roots": "🌱 RAÍZES!",
+
+  "ui.tutorial.step0.main": "Arraste seu herói do painel da esquerda e solte na <1>grade azul</1> à direita.",
+  "ui.tutorial.gotIt": "Entendi →",
+
+  "ui.toast.levelNum": "Nível {{n}}",
+  "ui.toast.bpLevelUnlocked": "⚔️ Passe de Batalha — Nível {{n}} desbloqueado!",
+  "ui.titles.bpLevel": "⚔️ Passe de Batalha Nv {{n}}",
+
+  "ui.avatars.unlockedCount": "{{cur}} / {{total}} desbloqueados",
+  "ui.avatars.equipped": "✓ Equipado",
+
+  "ui.daily.resetsAt": "{{week}} — reinicia diariamente à meia-noite UTC",
+  "ui.daily.objectivesComplete": "{{done}}/{{total}} objetivos completos",
+  "ui.daily.allComplete": "✦ Completo!",
+  "ui.daily.objDone": "✓ Completo",
+  "ui.daily.doneLabel": "feito",
+
+  "ui.roadmap.quote": "\"Como desenvolvedor solo, consigo me adaptar rápido — então o que vem a seguir vai ser guiado pelo feedback de vocês.\"",
+
+  "ui.gacha.mythicBanner": "✦ Mítico ✦",
+  "ui.gacha.pityReset": "✦ Garantia reiniciada",
+
+  "ui.settings.musicVolumeLabel": "🎵 VOLUME DA MÚSICA",
+
+  "ui.merchant.availableFor": "· disponível por {{n}} onda(s)",
+  "ui.merchant.dismissInfo": "Dispense aliados para receber ouro.",
+  "ui.shop.lockedBadge": "🔒 Bloqueado",
+  "ui.shop.stackableBadge": "⟳ Acumulável",
+  "ui.shop.close": "Fechar ✕",
+
+  "ui.common.menu": "Menu",
+
+  "ui.charTabs.heroBonusDesc": "Seu herói começa no Nível 10 com 3× de dano base e 3× de HP base em relação a uma versão da mesma classe comprada na loja.",
+  "ui.charTabs.slotEmpty": "Espaço {{n}} — vazio",
+  "ui.charTabs.earnXpWith": "Ganhe XP jogando com <1>{{name}}</1> para desbloquear mais relíquias.",
+  "ui.charTabs.xpRates": "+300 XP base/run · +20/onda · +1/abate",
+
+  "ui.victory.slain": "· Abatido",
+
+  "ui.endRun.mvpLabel": "MVP:",
+  "ui.endRun.returnFortress": "← Voltar à Fortaleza",
+  "ui.endRun.playAgain": "↺ Jogar de Novo",
+  "ui.endRun.waveLabel": "Onda",
+  "ui.endRun.wavesOver": "+{{n}} ondas",
+  "ui.endRun.wavesShort": "{{n}} a menos",
+  "ui.endRun.dmgUnit": "{{v}} de dano",
+  "ui.endRun.killUnit": "{{n}} abate",
+  "ui.endRun.killsUnit": "{{n}} abates",
+  "ui.endRun.tryAgain": "↺ Tentar de Novo",
+  "ui.endRun.menuBtn": "← Menu",
+
+  "ui.jester.stolenFrom": "Roubada da alma de {{name}}",
+  "ui.jester.claim": "Resgatar ✦",
+
+  "ui.levelUp.reached": "Nível {{n}} Alcançado!",
+  "ui.levelUp.chooseDestiny": "Escolha seu destino",
+  "ui.levelUp.globalBadge": "⚔️ Global",
+  "ui.levelUp.choose": "Escolher",
+
+  "ui.runHistory.recorded": "{{n}} runs registradas",
+  "ui.runHistory.clearConfirm": "Limpar todo o histórico de runs?",
+
+  "ui.skillTree.playWith": "Jogue com <1>{{name}}</1> para ganhar XP de maestria e desbloquear mais pontos de perícia.",
+  "ui.skillTree.xpRates": "+300 XP base por run · +20 por onda · +1 por abate",
+
+  "ui.waveSummary.elite": "{{n}} ELITE",
+  "ui.waveSummary.elites": "{{n}} ELITES",
+  "ui.waveSummary.barrierIntact": "BARREIRA INTACTA",
+  "ui.waveSummary.mvp": "MVP: {{name}}",
+
+  "ui.battlePass.levelLabel": "Nível {{n}}",
+  "ui.battlePass.rewardReady": "{{n}} recompensa pronta!",
+  "ui.battlePass.rewardsReady": "{{n}} recompensas prontas!",
+  "ui.battlePass.xpRates": "+150 XP/run · +15 XP/onda · +2 XP/abate · +100 XP vitória"
+}

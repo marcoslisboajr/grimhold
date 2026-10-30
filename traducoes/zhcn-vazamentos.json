@@ -1,0 +1,5 @@
+{
+  "ui.charSelect.synergyUnits": "{{n}}+ 单位",
+  "ui.gacha.toPity": "距离保底还差{{n}}次",
+  "ui.forge.upgradesProgress": "{{bought}}/{{total}} 项升级"
+}

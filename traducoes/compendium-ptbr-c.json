@@ -1,0 +1,265 @@
+{
+  "compendium.bard-grandfinale.title": "Grande Final",
+  "compendium.bard-grandfinale.description": "🎵 MÍTICA: uma vez por run, quando a barreira cai abaixo de 50% de HP — todos os aliados ganham +200% de dano e velocidade de ataque máxima por 12s, e todos os inimigos ficam confusos por 6s. Depois, o Bardo mantém +60% de velocidade de ataque permanente.",
+  "compendium.bard-grandfinale.flavorText": "A última canção durou três minutos. Nada sobreviveu para ouvir o bis.",
+
+  "compendium.cleric-sanctifiedwrath.title": "Ira Santificada",
+  "compendium.cleric-sanctifiedwrath.description": "✨ MÍTICA: todo 5º tiro da Clériga solta uma Nova Sagrada que atinge TODOS os inimigos na tela por 60% do dano base. A chance da Prece de Batalha dobra. A barreira regenera HP passivamente durante a run inteira.",
+  "compendium.cleric-sanctifiedwrath.flavorText": "A luz não ilumina o caminho. Ela incendeia o campo.",
+
+  "compendium.paladin-eternalcrusade.title": "Cruzada Eterna",
+  "compendium.paladin-eternalcrusade.description": "🛡 MÍTICA: o dano da caldeira soma direto em cada ataque do Paladino. Abaixo de 30% de HP, ele fica imune por 5s uma vez por onda. O raio de área da caldeira dobra permanentemente.",
+  "compendium.paladin-eternalcrusade.flavorText": "Não há limite para o que a fé aguenta. Já foi testado.",
+
+  "compendium.priest-divinecovenant.title": "Convênio Divino",
+  "compendium.priest-divinecovenant.description": "⚕ MÍTICA: no começo da onda, cada aliado recebe um escudo divino de 50 de dano. Uma vez por onda, um aliado que morreria é salvo automaticamente com 1 HP. A redução da Aura Guardiã dobra.",
+  "compendium.priest-divinecovenant.flavorText": "Ele não cura feridas. Ele proíbe que existam.",
+
+  "compendium.runesmith-grandrune.title": "Grande Runa",
+  "compendium.runesmith-grandrune.description": "⚡ MÍTICA: todo 20º tiro inscreve uma Grande Runa que dispara raio em cadeia atingindo TODOS os inimigos ao mesmo tempo. Até 3 Grandes Runas ativas por onda — todas disparam juntas.",
+  "compendium.runesmith-grandrune.flavorText": "Ele não escreve feitiços. Ele reescreve as regras do campo de batalha.",
+
+  "compendium.sylvanite-worldtree.title": "Árvore do Mundo",
+  "compendium.sylvanite-worldtree.description": "🌿 MÍTICA: a Sylvanite cria raízes (fica imóvel), mas o veneno aflige TODOS os inimigos permanentemente. O Renascer da Floresta dispara 3× por onda. O Florescer da Natureza cura em dobro.",
+  "compendium.sylvanite-worldtree.flavorText": "A árvore não vai à guerra. A guerra vem até a árvore.",
+
+  "compendium.vex-shadowdeath.title": "Morte Sombria",
+  "compendium.vex-shadowdeath.description": "🩸 MÍTICA: a Investida de Sai dispara a cada 3º ataque. Cada abate estende o alcance do próximo salto em +10%. Com 10 abates: a Vex fica totalmente impossível de mirar durante o salto e os saltos causam 3× de dano.",
+  "compendium.vex-shadowdeath.flavorText": "Ela não caça. Ela chega no fim.",
+
+  "compendium.dreadlord-apotheosis.title": "Apoteose do Vazio",
+  "compendium.dreadlord-apotheosis.description": "💀 MÍTICA: +1% de dano permanente para cada 1% de HP máximo faltando (com 10% de HP = +90% de dano). Uma vez por run, em vez de morrer, ele detona (300% de dano em todos os inimigos) e revive com 30% de HP.",
+  "compendium.dreadlord-apotheosis.flavorText": "Ele já morreu uma vez. Não gostou.",
+
+  "compendium.zylvara-eternaleclipse.title": "Eclipse Eterno",
+  "compendium.zylvara-eternaleclipse.description": "🌑 MÍTICA: o Passo Sombrio dispara a cada 3º ataque sem recarga. Cada abate durante o Passo Sombrio estende o próximo manto em 0,5s (sem teto). Tiros fatais durante o manto detonam todos os acúmulos de veneno em área.",
+  "compendium.zylvara-eternaleclipse.flavorText": "Ela nunca esteve ali. A flecha esteve.",
+
+  "compendium.ixara-primalrage.title": "Fúria Primordial",
+  "compendium.ixara-primalrage.description": "💥 MÍTICA: os acúmulos de Fúria nunca decaem e não têm teto. Com 15+ acúmulos, a Nova do Caos dispara sozinha a cada 6s sem atordoar a Ixara. Com 20 acúmulos ela fica impossível de mirar pelo resto da onda.",
+  "compendium.ixara-primalrage.flavorText": "Dor não é um problema. É o ponto.",
+
+  "compendium.sacred-trinity.title": "Trindade Sagrada",
+  "compendium.sacred-trinity.description": "✦ Sinergia — Paladino + Sacerdote + Clériga: todas as unidades sagradas +28–65% de dano, e a Barreira regenera HP/s extra.",
+  "compendium.sacred-trinity.flavorText": "Três fés, uma luz inquebrável.",
+
+  "compendium.shadow-council.title": "Conselho das Sombras",
+  "compendium.shadow-council.description": "✦ Sinergia — Bruxo + Necromante: +45–100% de dano, e a chance de esqueleto do Necromante aumenta muito.",
+  "compendium.shadow-council.flavorText": "Na escuridão, eles encontraram seu acordo.",
+
+  "compendium.natures-wrath.title": "Ira da Natureza",
+  "compendium.natures-wrath.description": "✦ Sinergia — Druida + Arqueira: +18–42% de velocidade de ataque e chance de crítico. No nível 2, a Druida enraíza no crítico.",
+  "compendium.natures-wrath.flavorText": "A caçada não tem misericórdia.",
+
+  "compendium.arcane-storm.title": "Tempestade Arcana",
+  "compendium.arcane-storm.description": "✦ Sinergia — Mago + Bruxo: +30–65% de dano e alcance. Os feitiços causam mais no nível 2.",
+  "compendium.arcane-storm.flavorText": "Duas escolas de destruição, uma tempestade.",
+
+  "compendium.iron-bulwark.title": "Baluarte de Ferro",
+  "compendium.iron-bulwark.description": "✦ Sinergia — Paladino + Clériga: a Barreira recebe 18–35% menos dano, e o Paladino ganha +25–55% de HP.",
+  "compendium.iron-bulwark.flavorText": "Pedra e fé, inseparáveis.",
+
+  "compendium.ballad-of-blood.title": "Balada de Sangue",
+  "compendium.ballad-of-blood.description": "✦ Sinergia — Bardo + Arqueira + Druida: a aura do Bardo dá +12–28% de dano aos aliados próximos.",
+  "compendium.ballad-of-blood.flavorText": "A canção da guerra nunca acaba.",
+
+  "compendium.death-choir.title": "Coro da Morte",
+  "compendium.death-choir.description": "✦ Sinergia — Necromante + Bardo: esqueletos +70–180% de dano. Nível 2: a aura do Bardo ressuscita aliados caídos.",
+  "compendium.death-choir.flavorText": "Até os mortos marcham no compasso dele.",
+
+  "compendium.arcane-barrage.title": "Barragem Arcana",
+  "compendium.arcane-barrage.description": "✦ Sinergia — Mago + Arqueira: +15–35% de alcance, e os projéteis atravessam inimigos a mais.",
+  "compendium.arcane-barrage.flavorText": "Magia e aço encontram o mesmo alvo.",
+
+  "compendium.soul-mending.title": "Restauro de Almas",
+  "compendium.soul-mending.description": "✦ Sinergia — Sacerdote + Bardo: as curas se espalham para os aliados próximos. Nível 2: curam TODOS os aliados.",
+  "compendium.soul-mending.flavorText": "A música carrega cura com a mesma facilidade que carrega tristeza.",
+
+  "compendium.wild-hunt.title": "Caçada Selvagem",
+  "compendium.wild-hunt.description": "✦ Sinergia — Arqueira + Druida + Bardo: +18–40% de dano e velocidade de ataque. O Bardo vira causador de dano.",
+  "compendium.wild-hunt.flavorText": "A caçada não tem começo. Nem fim.",
+
+  "compendium.storm-forge.title": "Forja da Tempestade",
+  "compendium.storm-forge.description": "✦ Sinergia — Ferreiro Rúnico + Mago: a cadeia atinge +1 inimigo a mais, +40–85% de dano e alcance.",
+  "compendium.storm-forge.flavorText": "A forja e a tempestade são a mesma força.",
+
+  "compendium.verdant-pact.title": "Pacto Verdejante",
+  "compendium.verdant-pact.description": "✦ Sinergia — Sylvanite + Druida: os críticos envenenam, +40–85% de dano. Nível 2: enraíza no crítico.",
+  "compendium.verdant-pact.flavorText": "O velho pacto da floresta é selado em espinhos.",
+
+  "compendium.dark-hunger.title": "Fome Sombria",
+  "compendium.dark-hunger.description": "✦ Sinergia — Senhor do Pavor + Bruxo: +65–140% de dano. No nível 2, o Senhor do Pavor nunca cai abaixo de 5 HP.",
+  "compendium.dark-hunger.flavorText": "Dois predadores. Uma presa.",
+
+  "compendium.life-forge.title": "Forja da Vida",
+  "compendium.life-forge.description": "✦ Sinergia — Sylvanite + Sacerdote: as curas do Sacerdote ficam +45% mais fortes. Nível 2: as curas também envenenam os inimigos.",
+  "compendium.life-forge.flavorText": "Vida e veneno partilham a mesma raiz.",
+
+  "compendium.arcane-ruin.title": "Ruína Arcana",
+  "compendium.arcane-ruin.description": "✦ Sinergia — Ferreiro Rúnico + Bruxo + Mago: +50–110% de dano, e raio em cadeia a cada 2 tiros.",
+  "compendium.arcane-ruin.flavorText": "Três fontes. Uma catástrofe.",
+
+  "compendium.umbral-brood.title": "Ninhada Umbral",
+  "compendium.umbral-brood.description": "✦ Sinergia — Zylvara + Zylvara: veneno mais forte, Passo Sombrio mais rápido e mais pressão de execução.",
+  "compendium.umbral-brood.flavorText": "Uma sombra é uma ameaça. Uma ninhada é uma sentença.",
+
+  "compendium.coven-pyre.title": "Pira do Coven",
+  "compendium.coven-pyre.description": "✦ Sinergia — Morrigan + Morrigan: Cinzas e Praga Viva escalam pesado, e as ondas de maldição cobrem o campo inteiro.",
+  "compendium.coven-pyre.flavorText": "Uma bruxa é um aviso. Um coven é um veredito.",
+
+  "compendium.riot-engine.title": "Motor do Tumulto",
+  "compendium.riot-engine.description": "✦ Sinergia — Ixara + Ixara: geração de Fúria, velocidade de ataque e dano da Nova do Caos sobem em espiral.",
+  "compendium.riot-engine.flavorText": "O caos fica eficiente quando demônios suficientes concordam.",
+
+  "compendium.hexbound-pact.title": "Pacto Praguejado",
+  "compendium.hexbound-pact.description": "✦ Sinergia — Morrigan + Bruxo: dano pesado, pragas mais fortes e mortes que encadeiam aflições.",
+  "compendium.hexbound-pact.flavorText": "Uma maldição sussurrada duas vezes vira doutrina.",
+
+  "compendium.grave-contagion.title": "Contágio Sepulcral",
+  "compendium.grave-contagion.description": "✦ Sinergia — Morrigan + Necromante: abates amaldiçoados erguem mortos-vivos e fazem a onda de morte bolar de neve.",
+  "compendium.grave-contagion.flavorText": "Os mortos não descansam. Eles se espalham.",
+
+  "compendium.shadow-execution.title": "Execução Sombria",
+  "compendium.shadow-execution.description": "✦ Sinergia — Zylvara + Vex: a presa é marcada, amplificada e por fim executada à primeira vista.",
+  "compendium.shadow-execution.flavorText": "Primeiro a marca. Depois o silêncio.",
+
+  "compendium.hunters-sigil.title": "Sigilo da Caçadora",
+  "compendium.hunters-sigil.description": "✦ Sinergia — Zylvara + Arqueira: alvos marcados são apagados por fogo concentrado à distância.",
+  "compendium.hunters-sigil.flavorText": "Uma sombra aponta. Mil flechas respondem.",
+
+  "compendium.berserker-core.title": "Núcleo Berserker",
+  "compendium.berserker-core.description": "✦ Sinergia — Ixara + Paladino: a Fúria concede redução de dano, e as novas na Fúria máxima estabilizam o muro.",
+  "compendium.berserker-core.flavorText": "A raiva sobrevive mais tempo quando veste armadura.",
+
+  "compendium.war-anthem.title": "Hino de Guerra",
+  "compendium.war-anthem.description": "✦ Sinergia — Ixara + Bardo: Fúria alta vira um motor de dano e velocidade para o time inteiro.",
+  "compendium.war-anthem.flavorText": "Ela fornece a violência. Ele dá o ritmo.",
+
+  "compendium.new-berserker.title": "Invocar: Gorak",
+  "compendium.new-berserker.description": "O Berserker. A Ira Sangrenta escala o dano dele até 3× conforme o HP da barreira cai. Fúria Sanguinária a cada 12s: velocidade de ataque triplicada e tiros perfurantes por 4s.",
+  "compendium.new-berserker.flavorText": "Ele não luta para vencer. Luta porque parar significaria pensar.",
+
+  "compendium.berserker-iron-skin.title": "Pele de Ferro",
+  "compendium.berserker-iron-skin.description": "🪓 O Berserker ganha +25% de HP máximo. Cada vez que a barreira é atingida, ele cura 5 HP. Ferimentos só o deixam mais duro.",
+  "compendium.berserker-iron-skin.flavorText": "Cicatrizes são só armadura que nasceu.",
+
+  "compendium.berserker-bloodrage.title": "Ira Sangrenta",
+  "compendium.berserker-bloodrage.description": "🪓 Rara: limiar da Ira Sangrenta melhorado — o dano 2× ativa a 35% de HP da barreira em vez de 25%.",
+  "compendium.berserker-bloodrage.flavorText": "Dor não é um aviso. É um convite.",
+
+  "compendium.berserker-warchief.title": "Tambor do Cacique",
+  "compendium.berserker-warchief.description": "🪓 Lendária: a Fúria Sanguinária também aumenta o dano de TODOS os aliados em +25% enquanto durar. O exército inteiro ouve o tambor.",
+  "compendium.berserker-warchief.flavorText": "Um homem enfurece. Vinte seguem.",
+
+  "compendium.berserker-eternity.title": "Fúria Eterna",
+  "compendium.berserker-eternity.description": "🪓 Mítica: o multiplicador da Ira Sangrenta nunca zera entre ondas. Ondas que terminam com a barreira baixa acumulam +1% de dano permanente. Sem teto.",
+  "compendium.berserker-eternity.flavorText": "Ele está com raiva há tanto tempo que já não lembra como era a calma.",
+
+  "compendium.new-frost_warden.title": "Invocar: Serafyne",
+  "compendium.new-frost_warden.description": "A Guardiã do Gelo. Os tiros deixam marcas de gelo — 3 marcas criam uma Placa de Gelo (−50% de velocidade inimiga). A Muralha Glacial a cada 18s bloqueia e fere os inimigos.",
+  "compendium.new-frost_warden.flavorText": "Ela acha o campo de batalha quente demais. E corrige isso.",
+
+  "compendium.frost_warden-deep-freeze.title": "Congelamento Profundo",
+  "compendium.frost_warden-deep-freeze.description": "❄️ Rara: as Placas de Gelo lentificam os inimigos em 65% em vez de 50%. As marcas de gelo duram 2s a mais antes de expirar.",
+  "compendium.frost_warden-deep-freeze.flavorText": "Frio o bastante para parar qualquer coisa. Qualquer uma.",
+
+  "compendium.frost_warden-shatter.title": "Estilhaçar",
+  "compendium.frost_warden-shatter.description": "❄️ Rara: inimigos congelados que morrem explodem em estilhaços de gelo, causando 80 de dano em todos os inimigos num raio de 120px.",
+  "compendium.frost_warden-shatter.flavorText": "Morte pelo frio. Depois morte pelos estilhaços.",
+
+  "compendium.frost_warden-wall-mastery.title": "Maestria da Muralha",
+  "compendium.frost_warden-wall-mastery.description": "❄️ Lendária: a recarga da Muralha Glacial cai de 18s para 12s. A duração da muralha aumenta 2s. Inimigos que colidem recebem dano em dobro.",
+  "compendium.frost_warden-wall-mastery.flavorText": "Ela não lentifica o inimigo. Ela o para.",
+
+  "compendium.frost_warden-absolute.title": "Zero Absoluto",
+  "compendium.frost_warden-absolute.description": "❄️ Mítica: o campo de batalha inteiro vira uma Placa de Gelo permanente. Todos os inimigos congelados recebem +50% de dano de todas as fontes.",
+  "compendium.frost_warden-absolute.flavorText": "Movimento é um privilégio. Ela o revoga.",
+
+  "compendium.new-inquisitor.title": "Invocar: Valdric",
+  "compendium.new-inquisitor.description": "O Inquisidor. Veredito: a cada 5 abates do mesmo tipo de inimigo = +20% de dano permanente contra ele (teto +100%). A Sentença marca um inimigo — todos os aliados causam +30% nele.",
+  "compendium.new-inquisitor.flavorText": "Ele não odeia o que mata. Só estudou por tempo o bastante para destruí-lo com perfeição.",
+
+  "compendium.inquisitor-death-warrant.title": "Mandado de Morte",
+  "compendium.inquisitor-death-warrant.description": "⚖️ Quando um inimigo Sentenciado morre, todos os inimigos do mesmo tipo na tela recebem 80 de dano na hora.",
+  "compendium.inquisitor-death-warrant.flavorText": "Uma sentença. Todo mundo ouviu.",
+
+  "compendium.inquisitor-interrogation.title": "Interrogatório",
+  "compendium.inquisitor-interrogation.description": "⚖️ Rara: a Sentença também reduz a velocidade e a resistência do alvo em 20%. As marcas nunca mentem.",
+  "compendium.inquisitor-interrogation.flavorText": "Ele não faz perguntas para aprender. Faz para confirmar.",
+
+  "compendium.inquisitor-crusade.title": "Cruzada",
+  "compendium.inquisitor-crusade.description": "⚖️ Lendária: com 5+ inimigos do mesmo tipo na tela, o Inquisidor entra em Cruzada — ataques em área automáticos por 4s. Imparável contra hordas.",
+  "compendium.inquisitor-crusade.flavorText": "Um inquisidor. Um exército de motivos.",
+
+  "compendium.inquisitor-judgment.title": "Julgamento Final",
+  "compendium.inquisitor-judgment.description": "⚖️ Mítica: matar um chefe com a Sentença ativa restaura 15 de HP da barreira e dá +1 espaço extra na loja. A justiça paga.",
+  "compendium.inquisitor-judgment.flavorText": "Todo veredito tem um preço. Ele cobra.",
+
+  "compendium.blood-and-ice.title": "Sangue e Gelo",
+  "compendium.blood-and-ice.description": "✦ Sinergia — Berserker + Guardiã do Gelo: as Placas de Gelo fortalecem a Ira Sangrenta. Inimigos congelados recebem +40% de dano físico. Nível 3: a Fúria Sanguinária congela os inimigos próximos.",
+  "compendium.blood-and-ice.flavorText": "Um queima frio. O outro queima quente. Juntos, nada sobrevive.",
+
+  "compendium.divine-verdict.title": "Veredito Divino",
+  "compendium.divine-verdict.description": "✦ Sinergia — Inquisidor + Paladino: a Sentença aplica Solo Consagrado. Os bônus do Veredito também fortalecem o Paladino. Nível 3: a Sentença marca todos os inimigos.",
+  "compendium.divine-verdict.flavorText": "Julgamento não é um momento. É uma política.",
+
+  "compendium.iron-conviction.title": "Convicção de Ferro",
+  "compendium.iron-conviction.description": "✦ Sinergia — Berserker + Inquisidor: inimigos Sentenciados recebem o bônus completo da Ira Sangrenta. Abates do Veredito dão dano permanente ao Berserker. Nível 3: a Fúria Sanguinária sentencia todos os inimigos automaticamente.",
+  "compendium.iron-conviction.flavorText": "Raiva sem propósito é violência. Com propósito, é guerra.",
+
+  "compendium.permafrost-ward.title": "Guarda Permafrost",
+  "compendium.permafrost-ward.description": "✦ Sinergia — Guardiã do Gelo + Clériga: as Placas de Gelo pulsam pequenas curas nos aliados próximos. Nível 2: a Muralha Glacial bloqueia dano na barreira. Nível 3: o Congelamento Instantâneo também cura todos os aliados.",
+  "compendium.permafrost-ward.flavorText": "O frio preserva. A fé restaura. Juntos, nada apodrece.",
+
+  "compendium.new-malachar_human.title": "Invocar: Malachar",
+  "compendium.new-malachar_human.description": "O Redimido. Alterna entre 4 feitiços do Grimório do Caos. Coleta almas para feitiços Potencializados. Solitário: mais forte com menos aliados. Suprema: Ascensão.",
+  "compendium.new-malachar_human.flavorText": "Ele não voltou para pedir desculpas. Voltou porque é o único que sabe o que está vindo.",
+
+  "compendium.malachar-soulpact.title": "Pacto de Almas",
+  "compendium.malachar-soulpact.description": "✦ Malachar: limiar de almas reduzido de 10 para 7. Feitiços Potencializados duram 2 tiros em vez de 1.",
+  "compendium.malachar-soulpact.flavorText": "Os mortos dão de bom grado quando quem pede é um dos seus.",
+
+  "compendium.malachar-voidstorm.title": "Tempestade do Vazio",
+  "compendium.malachar-voidstorm.description": "✦ Lendária: a Nova da Morte explode em cadeia — cada explosão tem 60% de chance de disparar outra (máx 3 cadeias). O dano total pode triplicar.",
+  "compendium.malachar-voidstorm.flavorText": "Uma morte. Três ecos.",
+
+  "compendium.malachar-ascension.title": "Ascensão Mítica",
+  "compendium.malachar-ascension.description": "✦ Mítica: durante a Ascensão, Malachar levita imune. Os 4 feitiços disparam ao mesmo tempo. A duração dobra para 20s.",
+  "compendium.malachar-ascension.flavorText": "Quatrocentos anos de poder, comprimidos em vinte segundos.",
+
+  "compendium.malachar-solitude.title": "Solidão Perfeita",
+  "compendium.malachar-solitude.description": "✦ Lendária: quando está sozinho (sem aliados), Malachar não pode ser alvo e ganha +120% de dano. A solidão é a arma dele.",
+  "compendium.malachar-solitude.flavorText": "Ele está sozinho há quatrocentos anos. É muito bom nisso.",
+
+  "compendium.vex-deathmark.title": "Marca da Morte",
+  "compendium.vex-deathmark.description": "⚔️ Rara: cada abate durante a Investida de Sai zera a recarga dela uma vez por onda. Abates na investida também causam +50% de dano bônus.",
+  "compendium.vex-deathmark.flavorText": "Ela nunca esteve ali. Só deixou uma marca.",
+
+  "compendium.zylvara-widow.title": "Marca da Viúva",
+  "compendium.zylvara-widow.description": "🌑 Rara: toda 10ª flecha marca o alvo por 5s. Inimigos marcados recebem 2× de dano da Zylvara e revelam o HP máximo.",
+  "compendium.zylvara-widow.flavorText": "Ela conta. Você não é o primeiro.",
+
+  "compendium.morrigan-soulecho.title": "Eco de Almas",
+  "compendium.morrigan-soulecho.description": "💜 Rara: quando o Modo Devorar ativa, todas as almas coletadas nesta onda contam em dobro para o bônus de dano permanente.",
+  "compendium.morrigan-soulecho.flavorText": "Os mortos são generosos quando devidamente motivados.",
+
+  "compendium.ixara-furysurge.title": "Surto de Fúria",
+  "compendium.ixara-furysurge.description": "💥 Rara: no máximo de acúmulos de Fúria, a Ixara ganha +40% de velocidade de ataque e os projéteis atravessam 2 inimigos por 5s.",
+  "compendium.ixara-furysurge.flavorText": "Na fúria máxima ela não mira. Não precisa.",
+
+  "compendium.berserker-battlecry.title": "Grito de Batalha",
+  "compendium.berserker-battlecry.description": "🪓 Rara: ao começar a Fúria Sanguinária, os inimigos próximos ficam apavorados (−70% de velocidade) por 2s. Inimigos apavorados também recebem +20% de dano.",
+  "compendium.berserker-battlecry.flavorText": "Eles não correm do som. Correm do que o produziu.",
+
+  "compendium.frost_warden-coldsnap.title": "Friagem",
+  "compendium.frost_warden-coldsnap.description": "❄️ Rara: todo 5º tiro da Guardiã do Gelo congela o alvo na hora por 1,5s, independente das marcas de gelo.",
+  "compendium.frost_warden-coldsnap.flavorText": "Sem acúmulo. Sem aviso. Só frio.",
+
+  "compendium.inquisitor-holybrand.title": "Marca Sagrada",
+  "compendium.inquisitor-holybrand.description": "⚖️ Rara: quando a Sentença é aplicada, um segundo inimigo próximo também é Marcado — recebendo +20% de dano de todas as fontes enquanto durar.",
+  "compendium.inquisitor-holybrand.flavorText": "Ele tem julgamento de sobra para todo mundo.",
+
+  "compendium.malachar-voidrift.title": "Fenda do Vazio",
+  "compendium.malachar-voidrift.description": "🔮 Rara: depois que a Extinção dispara, todos os inimigos na tela ficam −50% mais lentos por 3s enquanto a energia do vazio se dissipa. A recarga da Extinção diminui em 1 ciclo.",
+  "compendium.malachar-voidrift.flavorText": "O silêncio depois da Extinção não é vazio. Está cheio de algo pior."
+}

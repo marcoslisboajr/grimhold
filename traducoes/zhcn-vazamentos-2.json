@@ -1,0 +1,91 @@
+{
+  "ui.hud.synergyMax": "★ 满级",
+  "ui.hud.wave": "波次",
+  "ui.hud.tabRun": "单局",
+  "ui.hud.tabSynergies": "✦ 羁绊",
+  "ui.hud.cardPicked": "已选{{n}}张卡牌",
+  "ui.hud.cardsPicked": "已选{{n}}张卡牌",
+  "ui.hud.itemBought": "已购{{n}}件物品",
+  "ui.hud.itemsBought": "已购{{n}}件物品",
+  "ui.hud.summonsCount": "召唤 {{cur}}/{{max}}",
+  "ui.hud.wavesLeft": "剩{{n}}波",
+
+  "ui.spell.cost": "费用：{{n}}金币",
+  "ui.spell.cooldown": "冷却：{{n}}秒",
+  "ui.float.essences": "+5 精华",
+  "ui.float.roots": "🌱 缠绕！",
+
+  "ui.tutorial.step0.main": "把你的英雄从左侧面板拖出来，放到右边的<1>蓝色格子</1>上。",
+  "ui.tutorial.gotIt": "明白了 →",
+
+  "ui.toast.levelNum": "等级 {{n}}",
+  "ui.toast.bpLevelUnlocked": "⚔️ 战令——{{n}}级已解锁！",
+  "ui.titles.bpLevel": "⚔️ 战令 {{n}}级",
+
+  "ui.avatars.unlockedCount": "已解锁 {{cur}} / {{total}}",
+  "ui.avatars.equipped": "✓ 已装备",
+
+  "ui.daily.resetsAt": "{{week}} —— 每日UTC午夜重置",
+  "ui.daily.objectivesComplete": "已完成 {{done}}/{{total}} 个目标",
+  "ui.daily.allComplete": "✦ 已完成！",
+  "ui.daily.objDone": "✓ 已完成",
+  "ui.daily.doneLabel": "完成",
+
+  "ui.roadmap.quote": "“作为独立开发者，我能很快调整方向——所以接下来做什么，由你们的反馈决定。”",
+
+  "ui.gacha.mythicBanner": "✦ 神话 ✦",
+  "ui.gacha.pityReset": "✦ 保底已重置",
+
+  "ui.settings.musicVolumeLabel": "🎵 音乐音量",
+
+  "ui.merchant.availableFor": "· 可用 {{n}} 波",
+  "ui.merchant.dismissInfo": "解散盟友可获得金币。",
+  "ui.shop.lockedBadge": "🔒 未解锁",
+  "ui.shop.stackableBadge": "⟳ 可叠加",
+  "ui.shop.close": "关闭 ✕",
+
+  "ui.common.menu": "菜单",
+
+  "ui.charTabs.heroBonusDesc": "与在商店购买的同职业单位相比，你的英雄从10级开始，拥有3倍基础伤害和3倍基础生命值。",
+  "ui.charTabs.slotEmpty": "槽位 {{n}} —— 空",
+  "ui.charTabs.earnXpWith": "使用<1>{{name}}</1>游玩以获取经验，解锁更多遗物。",
+  "ui.charTabs.xpRates": "每局+300基础经验 · 每波+20 · 每次击杀+1",
+
+  "ui.victory.slain": "· 已击杀",
+
+  "ui.endRun.mvpLabel": "MVP：",
+  "ui.endRun.returnFortress": "← 返回要塞",
+  "ui.endRun.playAgain": "↺ 再玩一局",
+  "ui.endRun.waveLabel": "波次",
+  "ui.endRun.wavesOver": "多{{n}}波",
+  "ui.endRun.wavesShort": "差{{n}}波",
+  "ui.endRun.dmgUnit": "{{v}} 伤害",
+  "ui.endRun.killUnit": "{{n}} 次击杀",
+  "ui.endRun.killsUnit": "{{n}} 次击杀",
+  "ui.endRun.tryAgain": "↺ 再试一次",
+  "ui.endRun.menuBtn": "← 菜单",
+
+  "ui.jester.stolenFrom": "从{{name}}的灵魂中偷来",
+  "ui.jester.claim": "领取 ✦",
+
+  "ui.levelUp.reached": "达到 {{n}} 级！",
+  "ui.levelUp.chooseDestiny": "选择你的命运",
+  "ui.levelUp.globalBadge": "⚔️ 全局",
+  "ui.levelUp.choose": "选择",
+
+  "ui.runHistory.recorded": "已记录 {{n}} 局",
+  "ui.runHistory.clearConfirm": "清空全部对局历史？",
+
+  "ui.skillTree.playWith": "使用<1>{{name}}</1>游玩以获取精通经验，解锁更多技能点。",
+  "ui.skillTree.xpRates": "每局+300基础经验 · 每波+20 · 每次击杀+1",
+
+  "ui.waveSummary.elite": "{{n}} 精英",
+  "ui.waveSummary.elites": "{{n}} 精英",
+  "ui.waveSummary.barrierIntact": "屏障完好",
+  "ui.waveSummary.mvp": "MVP：{{name}}",
+
+  "ui.battlePass.levelLabel": "{{n}} 级",
+  "ui.battlePass.rewardReady": "{{n}} 项奖励可领取！",
+  "ui.battlePass.rewardsReady": "{{n}} 项奖励可领取！",
+  "ui.battlePass.xpRates": "每局+150经验 · 每波+15经验 · 每次击杀+2经验 · 胜利+100经验"
+}

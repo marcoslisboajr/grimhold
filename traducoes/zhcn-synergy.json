@@ -1,0 +1,91 @@
+{
+  "synergy.archer.name": "巡逻",
+  "synergy.archer.level.0.desc": "+10%攻速",
+  "synergy.archer.level.1.desc": "+22%攻速",
+  "synergy.archer.level.2.desc": "+35%攻速",
+  "synergy.archer.level.3.desc": "🔥 齐射：+55%攻速，每次射击发射2支箭",
+
+  "synergy.mage.name": "奥术法环",
+  "synergy.mage.level.0.desc": "+12%伤害",
+  "synergy.mage.level.1.desc": "+30%伤害",
+  "synergy.mage.level.2.desc": "+60%伤害",
+  "synergy.mage.level.3.desc": "🔥 奥术超载：+100%伤害，每次射击有35%几率范围爆炸",
+
+  "synergy.warlock.name": "暗黑契约",
+  "synergy.warlock.level.0.desc": "+18%射程/速度",
+  "synergy.warlock.level.1.desc": "+45%射程/速度",
+  "synergy.warlock.level.2.desc": "+80%射程/速度",
+  "synergy.warlock.level.3.desc": "🔥 虚空飞升：+130%射程/速度，射击偷取15%生命值，敌人减速-60%",
+
+  "synergy.druid.name": "自然之力",
+  "synergy.druid.level.0.desc": "季节每9次射击推进",
+  "synergy.druid.level.1.desc": "季节每7次射击推进，季节射击+15%伤害",
+  "synergy.druid.level.2.desc": "季节每5次射击推进，+30%伤害，德鲁伊日蚀自动激活",
+  "synergy.druid.level.3.desc": "🔥 世界之树：季节每3次射击推进，+60%伤害，所有季节同时触发",
+
+  "synergy.necromancer.name": "亡灵大军",
+  "synergy.necromancer.level.0.desc": "每波开始时+1亡灵",
+  "synergy.necromancer.level.1.desc": "每波开始时+2亡灵，+20%亡灵伤害",
+  "synergy.necromancer.level.2.desc": "每波开始时+3亡灵，+50%亡灵伤害",
+  "synergy.necromancer.level.3.desc": "🔥 巫妖飞升：+5个精英亡灵（2倍生命值/伤害），所有亡灵变为永久",
+
+  "synergy.bard.name": "和声",
+  "synergy.bard.level.0.desc": "+50%光环射程",
+  "synergy.bard.level.1.desc": "+110%光环射程",
+  "synergy.bard.level.2.desc": "+200%光环射程",
+  "synergy.bard.level.3.desc": "🔥 宏伟交响曲：光环射程无限，全体盟友全局获得+45%伤害与+30%攻速",
+
+  "synergy.cleric.name": "坚定信仰",
+  "synergy.cleric.level.0.desc": "+3回复/5秒",
+  "synergy.cleric.level.1.desc": "+8回复/5秒",
+  "synergy.cleric.level.2.desc": "+18回复/5秒",
+  "synergy.cleric.level.3.desc": "🔥 神圣圣盾：+40回复/5秒，屏障在每波开始时免疫伤害4秒",
+
+  "synergy.paladin.name": "神圣先锋",
+  "synergy.paladin.level.0.desc": "+60%对亡灵伤害",
+  "synergy.paladin.level.1.desc": "+110%对亡灵伤害",
+  "synergy.paladin.level.2.desc": "+180%对亡灵伤害",
+  "synergy.paladin.level.3.desc": "🔥 圣战：+300%对亡灵伤害，每第3次命中触发神圣重击范围伤害，眩晕所有敌人1.5秒",
+
+  "synergy.priest.name": "神圣之光",
+  "synergy.priest.level.0.desc": "治疗强度+20%",
+  "synergy.priest.level.1.desc": "治疗强度+50%",
+  "synergy.priest.level.2.desc": "治疗强度+90%",
+  "synergy.priest.level.3.desc": "🔥 复活：治疗强度+160%，每波一次以50%生命值复活倒下的盟友",
+
+  "synergy.runesmith.name": "符文网络",
+  "synergy.runesmith.level.0.desc": "每第5次射击触发连锁闪电",
+  "synergy.runesmith.level.1.desc": "每第3次射击连锁，+45%伤害",
+  "synergy.runesmith.level.2.desc": "每第3次射击连锁，命中5个敌人，+80%伤害",
+  "synergy.runesmith.level.3.desc": "✦ 符文奇点：每次射击都连锁，命中所有敌人，+150%伤害，符印接触即爆炸",
+
+  "synergy.sylvanite.name": "远古树丛",
+  "synergy.sylvanite.level.0.desc": "为全体盟友+6生命回复/5秒",
+  "synergy.sylvanite.level.1.desc": "+15生命回复/5秒，中毒叠加2倍",
+  "synergy.sylvanite.level.2.desc": "+30生命回复/5秒，中毒叠加3倍并造成范围伤害",
+  "synergy.sylvanite.level.3.desc": "✦ 世界绽放：+60生命回复/5秒，中毒永久生效并传播给所有附近敌人",
+
+  "synergy.dreadlord.name": "虚空之约",
+  "synergy.dreadlord.level.0.desc": "虚空收割上限+5，每层+12%伤害",
+  "synergy.dreadlord.level.1.desc": "+140%伤害，击杀层数翻倍",
+  "synergy.dreadlord.level.2.desc": "+200%伤害，层数在波次之间保留",
+  "synergy.dreadlord.level.3.desc": "✦✦ 虚空飞升者：+350%伤害，虚空收割层数无限，每次击杀范围爆炸",
+
+  "synergy.vex.name": "幻影之步",
+  "synergy.vex.level.0.desc": "匕首突袭每第4次攻击触发（此前为第5次）",
+  "synergy.vex.level.1.desc": "匕首突袭每第3次攻击触发，+25%冲刺伤害",
+  "synergy.vex.level.2.desc": "匕首突袭每第2次攻击触发，+60%冲刺伤害，闪现持续900毫秒",
+  "synergy.vex.level.3.desc": "✦ 无尽闪现：每次攻击都是匕首突袭，+120%冲刺伤害，闪现时无法被选为目标",
+
+  "synergy.jester.name": "愚者宫廷",
+  "synergy.jester.level.0.desc": "球体循环加速——每种颜色触发速度+20%",
+  "synergy.jester.level.1.desc": "每第5次攻击同时触发全部3种球体效果，+30%伤害",
+  "synergy.jester.level.2.desc": "+60%伤害，混乱持续时间2倍，金球治疗全体盟友",
+  "synergy.jester.level.3.desc": "🔥 大马戏团：+100%伤害，每次攻击发射全部3种球，混乱传播给附近敌人",
+
+  "synergy.morrigan.name": "女巫结社",
+  "synergy.morrigan.level.0.desc": "灰烬积累速度+30%，诅咒爆炸+25%伤害",
+  "synergy.morrigan.level.1.desc": "灰烬积累速度+60%，活体邪咒多跳跃2个目标，+50%伤害",
+  "synergy.morrigan.level.2.desc": "诅咒爆炸在敌人间连锁，屏障挽救花费10生命值而非15，+80%伤害",
+  "synergy.morrigan.level.3.desc": "🔥 毁灭结社：每第3次命中立即触发灰烬爆炸，所有邪咒永久生效，屏障挽救免费"
+}

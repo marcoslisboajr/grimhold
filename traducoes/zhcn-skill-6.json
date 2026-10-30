@@ -1,0 +1,22 @@
+{
+  "skill.sk_mal_root.name": "开启魔典",
+  "skill.sk_mal_root.desc": "法术循环速度加快15%。每个强化法术在常规强化加成之上额外造成+25%伤害。",
+  "skill.sk_mal_a1.name": "奥术精通",
+  "skill.sk_mal_a1.desc": "+20%伤害。奥术箭现在可穿透3个敌人并弹射一次。",
+  "skill.sk_mal_a2.name": "死亡共鸣",
+  "skill.sk_mal_a2.desc": "死亡新星范围+50%。被死亡新星命中的敌人受到所有来源+20%伤害，持续4秒。",
+  "skill.sk_mal_a3.name": "虚空精通",
+  "skill.sk_mal_a3.desc": "虚空锁链现在向所有方向发射。连锁减速提升至-75%。陨石留下持续5秒的虚空区域，造成持续伤害。",
+  "skill.sk_mal_a4.name": "强化之魂",
+  "skill.sk_mal_a4.desc": "灵魂阈值从10降低为6。强化法术还会发射一枚较小的次级弹幕。",
+  "skill.sk_mal_b1.name": "孤独",
+  "skill.sk_mal_b1.desc": "孤身加成每层翻倍。独自一人时：+160%伤害且无法被选为目标。",
+  "skill.sk_mal_b2.name": "疾速飞升",
+  "skill.sk_mal_b2.desc": "飞升充能阈值降低30%。飞升持续时间延长至15秒。",
+  "skill.sk_mal_b3.name": "完全飞升",
+  "skill.sk_mal_b3.desc": "飞升期间：全部4个法术同时施放。攻速翻倍。所有法术自动强化。",
+  "skill.sk_mal_b4.name": "灵魂收获",
+  "skill.sk_mal_b4.desc": "灵魂收集半径+100px。收集灵魂为Malachar恢复8点生命值。每第3个灵魂也为飞升充能。",
+  "skill.sk_mal_cap.name": "最终形态",
+  "skill.sk_mal_cap.desc": "灭绝每3次循环触发一次，而非5次。飞升在首次激活后永久生效。孤身加成即使有盟友在场也依然生效（无论如何每个空位仍+20%）。"
+}

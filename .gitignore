@@ -1,0 +1,44 @@
+# ── Gerado / reconstruível ──────────────────────────────────────────────
+node_modules/
+dist/
+release/
+release-demo/
+tsconfig.tsbuildinfo
+scripts/.tmp/
+
+# ── Artefatos grandes que nao sao fonte ────────────────────────────────
+# Snapshots manuais e zips de depot. O que interessa deles e reconstruivel
+# com npm run electron:build / o script de zip.
+grimhold.zip
+grimhold-demo-depot.zip
+components.zip
+*.rar
+
+# ── Biblioteca da migracao pixel art (PLANO_MESTRE B1) ─────────────────
+# 460 MB de pacotes crus. Os originais ficam em Downloads/Nova pasta/drive.
+# Git versiona mal binario grande; o que for de fato usado e COPIADO pra
+# public/ e ai sim entra. So o README da pasta e versionado.
+assets-pixel/*
+!assets-pixel/README.md
+
+# ── Backups pre-i18n ───────────────────────────────────────────────────
+# Copias de antes da migracao de i18n. Ficam no disco, nao no historico.
+*.bak
+
+# ── Ambiente / SO ──────────────────────────────────────────────────────
+# .env e local. .env.demo E versionado: e config de build, sem segredo.
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+# saidas de teste dos geradores de skin
+scripts/skins/*.png
+scripts/skins/skins_out/
+scripts/skins/novos*/

@@ -1,0 +1,10 @@
+{
+  "ui.rarity.epic": "ÉPICO",
+  "damageType.physical.full": "Físico",
+  "damageType.arcane.full": "Arcano",
+  "damageType.nature.full": "Natureza",
+  "damageType.holy.full": "Sagrado",
+  "damageType.death.full": "Morte",
+  "damageType.shadow.full": "Sombra",
+  "damageType.chaos.full": "Caos"
+}

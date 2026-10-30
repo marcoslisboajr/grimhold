@@ -1,0 +1,36 @@
+{
+  "ui.modeSelect.title.mode": "ESCOLHA SEU MODO",
+  "ui.modeSelect.title.difficulty": "ESCOLHA SUA DIFICULDADE",
+  "ui.modeSelect.step.mode": "MODO",
+  "ui.modeSelect.step.difficulty": "DIFICULDADE",
+  "ui.modeSelect.back": "VOLTAR",
+  "ui.modeSelect.proceedButton": "ESCOLHA SUA DIFICULDADE",
+
+  "ui.modeSelect.modes.none.label": "PADRÃO",
+  "ui.modeSelect.modes.none.desc": "Sem modificadores. A experiência clássica de Grimhold.",
+  "ui.modeSelect.modes.pacifist.label": "PACIFISTA",
+  "ui.modeSelect.modes.pacifist.desc": "Modo tranquilo. Barreira e aliados têm HP infinito. Sem recompensas de essência.",
+  "ui.modeSelect.modes.endless.label": "INFINITO",
+  "ui.modeSelect.modes.endless.desc": "Depois da onda 50, as ondas não param mais. Quanto tempo você aguenta?",
+  "ui.modeSelect.modes.randomizer.label": "RANDOMIZADOR",
+  "ui.modeSelect.modes.randomizer.desc": "Inimigos completamente aleatórios a cada onda. Escolha sua dificuldade e adapte-se ou pereça.",
+  "ui.modeSelect.modes.randomizer.badge": "IMPREVISÍVEL",
+
+  "ui.modeSelect.diff.easy.label": "FÁCIL",
+  "ui.modeSelect.diff.easy.desc": "Para iniciantes. Inimigos mais lentos, barreira mais resistente.",
+  "ui.modeSelect.diff.easy.tag": "Recomendado para novos jogadores",
+  "ui.modeSelect.diff.normal.label": "NORMAL",
+  "ui.modeSelect.diff.normal.desc": "A experiência padrão. Estratégia e boa composição são essenciais.",
+  "ui.modeSelect.diff.normal.tag": "Experiência equilibrada",
+  "ui.modeSelect.diff.hard.label": "DIFÍCIL",
+  "ui.modeSelect.diff.hard.desc": "Inimigos agressivos, ouro escasso. Cada decisão importa.",
+  "ui.modeSelect.diff.hard.tag": "Para veteranos",
+  "ui.modeSelect.diff.infernal.label": "INFERNAL",
+  "ui.modeSelect.diff.infernal.desc": "Só os melhores sobrevivem. Sem piedade, sem descanso.",
+  "ui.modeSelect.diff.infernal.tag": "Vença o jogo primeiro",
+
+  "ui.modeSelect.pacifistBanner.title": "MODO PACIFISTA",
+  "ui.modeSelect.pacifistBanner.barrier": "A Barreira tem HP infinito — não pode ser destruída",
+  "ui.modeSelect.pacifistBanner.allies": "Os aliados não podem morrer",
+  "ui.modeSelect.pacifistBanner.chill": "Experiência tranquila — sem recompensas de essência"
+}

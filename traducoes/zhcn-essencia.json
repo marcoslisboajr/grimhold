@@ -1,0 +1,9 @@
+{
+  "ui.levelUp.essenceReward": "+{{n}} 精华",
+  "ui.toast.essenceAwarded": "+{{n}} 精华已发放",
+  "ui.daily.essenceAwardedFull": "+{{n}} 精华已发放。明天回来领取新挑战。",
+  "ui.daily.essenceReward": "+{{n}} 精华",
+  "ui.daily.autoAwarded": "完成全部{{n}}个目标后自动发放。",
+  "ui.forge.cost": "{{n}} 精华",
+  "ui.forge.need": "（还差{{n}}）"
+}
